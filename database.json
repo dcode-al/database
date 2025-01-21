@@ -5015,7 +5015,7 @@
     "6283898137918@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": 35,
+      "limit": 30,
       "coin": 15,
       "stamina": 30,
       "kekuatan": 100,
@@ -5026,7 +5026,7 @@
     "6285657298365@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": 35,
+      "limit": 20,
       "coin": 15,
       "stamina": 30,
       "kekuatan": 100,
@@ -5511,7 +5511,7 @@
     "6289505366776@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": 35,
+      "limit": 20,
       "coin": 15,
       "stamina": 30,
       "kekuatan": 100,
@@ -5731,7 +5731,7 @@
     "6281211225664@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": 35,
+      "limit": 25,
       "coin": 15,
       "stamina": 30,
       "kekuatan": 100,
@@ -5742,7 +5742,7 @@
     "6283144458005@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": 35,
+      "limit": 0,
       "coin": 15,
       "stamina": 30,
       "kekuatan": 100,
@@ -5753,7 +5753,7 @@
     "628561653365@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": 35,
+      "limit": 30,
       "coin": 15,
       "stamina": 30,
       "kekuatan": 100,
@@ -5872,6 +5872,215 @@
       "autolevelup": true
     },
     "6281255687581@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6285748220517@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6283836642465@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6285362797791@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6289664027373@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "628816807296@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "62895352799568@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6289504280996@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6285869168278@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6287846471123@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6285706708478@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 30,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6287759034774@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 0,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "62895811499919@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 30,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "628563735375@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6281270360270@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 30,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6288975404765@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 30,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "62882005265858@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "120363390436427980@newsletter": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6283866701176@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
+    },
+    "6282360521602@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
       "limit": 35,
@@ -11605,7 +11814,7 @@
         "text_left": "",
         "text_welcome": ""
       },
-      "aldev_antitoxic": true
+      "aldev_antitoxic": false
     },
     "120363312305842724@newsletter": {
       "mute": false,
@@ -11988,6 +12197,126 @@
       }
     },
     "6281430317120@s.whatsapp.net": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6285748220517@s.whatsapp.net": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6283836642465@s.whatsapp.net": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6281211225664@s.whatsapp.net": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363373833954662@g.us": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363390436427980@newsletter": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "628561653365@s.whatsapp.net": {
       "mute": false,
       "wlcm": true,
       "antitoxic": true,
