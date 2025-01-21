@@ -5749,6 +5749,17 @@
       "tahan": 80,
       "level": 0,
       "autolevelup": true
+    },
+    "628561653365@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
     }
   },
   "chats": {
