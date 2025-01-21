@@ -5771,6 +5771,17 @@
       "tahan": 80,
       "level": 0,
       "autolevelup": true
+    },
+    "120363356875554367@newsletter": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 35,
+      "coin": 15,
+      "stamina": 30,
+      "kekuatan": 100,
+      "tahan": 80,
+      "level": 0,
+      "autolevelup": true
     }
   },
   "chats": {
@@ -11756,6 +11767,26 @@
       }
     },
     "120363314107350860@newsletter": {
+      "mute": false,
+      "wlcm": true,
+      "antitoxic": true,
+      "antipromosi": true,
+      "antilink": true,
+      "antilinkyt": true,
+      "antilinktt": true,
+      "antivirtex": true,
+      "antibot": false,
+      "antibot2": false,
+      "antipanel": true,
+      "antiwame": true,
+      "antilinkv2": true,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363356875554367@newsletter": {
       "mute": false,
       "wlcm": true,
       "antitoxic": true,
