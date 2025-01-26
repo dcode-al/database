@@ -93,6 +93,19 @@
       "uang": 10000,
       "lastclaim": 1737876544007,
       "lastrampok": 1737876544007
+    },
+    "6285357915497@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0dbf4fe64b5f0b5d7e6641ae2d74bcf9",
+      "nick": "INI BOT BUKAN MANUSIA⚠",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737883838636,
+      "lastrampok": 1737883838636
     }
   },
   "chats": {
@@ -223,6 +236,24 @@
       "mute": false
     },
     "6283187755341@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363370537686911@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
