@@ -262,6 +262,32 @@
       "uang": 10000,
       "lastclaim": 1738011452072,
       "lastrampok": 1738011452072
+    },
+    "6281315305780@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b669e62fd60e563addbc43d7ca173963",
+      "nick": "Mikaaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738012827332,
+      "lastrampok": 1738012827332
+    },
+    "6287838737734@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "18eacd79c3ad3bb0ab10050c956270f4",
+      "nick": "+62 878-3873-7734",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738012916621,
+      "lastrampok": 1738012916621
     }
   },
   "chats": {
