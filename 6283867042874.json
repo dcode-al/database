@@ -2314,6 +2314,19 @@
       "uang": 10000,
       "lastclaim": 1737977259570,
       "lastrampok": 1737977259570
+    },
+    "6285722297035@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "fe1c3ca53b7aa7b7101ff9b8bafdbbda",
+      "nick": "cel kaizen.",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737977299433,
+      "lastrampok": 1737977299433
     }
   },
   "chats": {
