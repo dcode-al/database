@@ -12,7 +12,7 @@
       "nick": "+62 812-9188-8561",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737960590285,
       "lastrampok": 1737960590285
@@ -25,7 +25,7 @@
       "nick": "Sugi Chan",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737960623299,
       "lastrampok": 1737960623299
@@ -37,7 +37,7 @@
       "serialNumber": "c3581acf0f32dd3817177a8595b0cf5b",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737995231291,
       "lastrampok": 1737995231291
