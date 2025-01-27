@@ -12,7 +12,7 @@
       "nick": "+62 823-2324-0186",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737968116151,
       "lastrampok": 1737968116151
@@ -25,7 +25,7 @@
       "nick": "Sh",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737968272217,
       "lastrampok": 1737968272217
@@ -38,7 +38,7 @@
       "nick": "Aurel",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737968292268,
       "lastrampok": 1737968292268
@@ -50,7 +50,7 @@
       "serialNumber": "0dea89a9fbbba87860e85f301a7d4e8c",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737968399595,
       "lastrampok": 1737968399595
@@ -63,7 +63,7 @@
       "nick": "Rfyy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737969148007,
       "lastrampok": 1737969148007
@@ -75,7 +75,7 @@
       "serialNumber": "8074ba39dcab3dfc82f1e1a58479e4eb",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737969516368,
       "lastrampok": 1737969516368
@@ -88,7 +88,7 @@
       "nick": "Charlie",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737970157513,
       "lastrampok": 1737970157513
@@ -101,7 +101,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737970953032,
       "lastrampok": 1737970953032
@@ -114,7 +114,7 @@
       "nick": "Mno",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737970954684,
       "lastrampok": 1737970954684
@@ -127,7 +127,7 @@
       "nick": "ㅡka",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737971272946,
       "lastrampok": 1737971272946
@@ -140,7 +140,7 @@
       "nick": "アリフィン",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737971574221,
       "lastrampok": 1737971574221
@@ -153,7 +153,7 @@
       "nick": "Z?",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737971631631,
       "lastrampok": 1737971631631
@@ -166,7 +166,7 @@
       "nick": "Z?",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737971644300,
       "lastrampok": 1737971644300
@@ -179,7 +179,7 @@
       "nick": "Manusia",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737971923945,
       "lastrampok": 1737971923945
@@ -192,7 +192,7 @@
       "nick": "Lucifer",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737972022031,
       "lastrampok": 1737972022031
@@ -205,7 +205,7 @@
       "nick": "DoraGTPS",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737972311539,
       "lastrampok": 1737972311539
@@ -218,7 +218,7 @@
       "nick": "Ters GTPS",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737972491259,
       "lastrampok": 1737972491259
@@ -231,7 +231,7 @@
       "nick": "S",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737972541986,
       "lastrampok": 1737972541986
@@ -244,7 +244,7 @@
       "nick": "Idk",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737972951857,
       "lastrampok": 1737972951857
@@ -257,7 +257,7 @@
       "nick": "GilzzGTPS",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737973245929,
       "lastrampok": 1737973245929
@@ -270,7 +270,7 @@
       "nick": "WILLZ GTPS  (OPEN PROMOTE)",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737973266329,
       "lastrampok": 1737973266329
@@ -283,7 +283,7 @@
       "nick": "Tedy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737974042118,
       "lastrampok": 1737974042118
@@ -296,7 +296,7 @@
       "nick": "ARVAN",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737975154472,
       "lastrampok": 1737975154472
@@ -309,7 +309,7 @@
       "nick": "Rio Marsello",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737975246468,
       "lastrampok": 1737975246468
@@ -322,7 +322,7 @@
       "nick": "Muhammad Fikri",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737975386295,
       "lastrampok": 1737975386295
@@ -335,7 +335,7 @@
       "nick": "ra",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737975582801,
       "lastrampok": 1737975582801
@@ -348,7 +348,7 @@
       "nick": "W REY",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737975721896,
       "lastrampok": 1737975721896
@@ -361,7 +361,7 @@
       "nick": "zan",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737976750200,
       "lastrampok": 1737976750200
@@ -374,7 +374,7 @@
       "nick": "Ipul",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737977425622,
       "lastrampok": 1737977425622
@@ -387,7 +387,7 @@
       "nick": "Two One Muda Ronx",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737979261558,
       "lastrampok": 1737979261558
@@ -400,7 +400,7 @@
       "nick": "🦫",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737979461303,
       "lastrampok": 1737979461303
@@ -413,7 +413,7 @@
       "nick": "Kurosawa Rimm",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737979723560,
       "lastrampok": 1737979723560
@@ -426,7 +426,7 @@
       "nick": "~ Suki GTPS",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737979829717,
       "lastrampok": 1737979829717
@@ -439,7 +439,7 @@
       "nick": "Rio Marsello",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737980178219,
       "lastrampok": 1737980178219
@@ -452,7 +452,7 @@
       "nick": "Rfyy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737980302949,
       "lastrampok": 1737980302949
@@ -465,7 +465,7 @@
       "nick": "GilzzGTPS",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737980960248,
       "lastrampok": 1737980960248
@@ -478,7 +478,7 @@
       "nick": "Yax",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737981657266,
       "lastrampok": 1737981657266
@@ -490,7 +490,7 @@
       "serialNumber": "e1091b064fd3292638fe4fb3656a7e37",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737983789279,
       "lastrampok": 1737983789279
@@ -503,7 +503,7 @@
       "nick": "vyy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737984058972,
       "lastrampok": 1737984058972
@@ -516,7 +516,7 @@
       "nick": "🗑️",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737984870543,
       "lastrampok": 1737984870543
@@ -529,7 +529,7 @@
       "nick": "🦖🪐🚀",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985409633,
       "lastrampok": 1737985409633
@@ -542,7 +542,7 @@
       "nick": "ARVAN",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985426889,
       "lastrampok": 1737985426889
@@ -555,7 +555,7 @@
       "nick": "Sh",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985438382,
       "lastrampok": 1737985438382
@@ -568,7 +568,7 @@
       "nick": "CupzJI",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985486484,
       "lastrampok": 1737985486484
@@ -581,7 +581,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985513093,
       "lastrampok": 1737985513093
@@ -594,7 +594,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985535377,
       "lastrampok": 1737985535377
@@ -607,7 +607,7 @@
       "nick": "Ipul",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737985787533,
       "lastrampok": 1737985787533
@@ -619,7 +619,7 @@
       "serialNumber": "c04f43b647994c1bccb9fc3c3b6e001a",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737987322466,
       "lastrampok": 1737987322466
@@ -632,7 +632,7 @@
       "nick": "Mno",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737990724462,
       "lastrampok": 1737990724462
@@ -645,7 +645,7 @@
       "nick": "Tedy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737991784261,
       "lastrampok": 1737991784261
@@ -658,10 +658,36 @@
       "nick": "ajay",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1737994575606,
       "lastrampok": 1737994575606
+    },
+    "6289527496330@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9e999b5dbdd1509aebab0c3b8d0931e2",
+      "nick": "S4Sink",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1737997030064,
+      "lastrampok": 1737997030064
+    },
+    "6285739720205@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "70f1c0fb5e44f6e1894a2d0fa0c5ade1",
+      "nick": "__Achmad",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737999248550,
+      "lastrampok": 1737999248550
     }
   },
   "chats": {
@@ -846,6 +872,42 @@
       "mute": false
     },
     "120363363009408737@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6283879069457@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6289678360491@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
