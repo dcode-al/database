@@ -895,6 +895,32 @@
       "uang": 10000,
       "lastclaim": 1737978429474,
       "lastrampok": 1737978429474
+    },
+    "6285725953774@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ced80ddbb822b4c5fa9f30caf8532f4c",
+      "nick": "LOW",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737978539251,
+      "lastrampok": 1737978539251
+    },
+    "6289673376623@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e8f5f01a3936cafa5ff600832dcd9947",
+      "nick": "Zioo Storee",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737978551216,
+      "lastrampok": 1737978551216
     }
   },
   "chats": {
