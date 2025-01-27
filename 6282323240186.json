@@ -649,6 +649,19 @@
       "uang": 10000,
       "lastclaim": 1737991784261,
       "lastrampok": 1737991784261
+    },
+    "6283836067705@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2945819cabf64d2ffc4e80ba34c0596b",
+      "nick": "ajay",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737994575606,
+      "lastrampok": 1737994575606
     }
   },
   "chats": {
