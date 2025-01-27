@@ -81,6 +81,19 @@
       "uang": 10000,
       "lastclaim": 1738021537460,
       "lastrampok": 1738021537460
+    },
+    "6287811049419@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f935af128542712f5ed3d7ee8804e4e5",
+      "nick": "Herrscher of The Karbiter",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738021649625,
+      "lastrampok": 1738021649625
     }
   },
   "chats": {
