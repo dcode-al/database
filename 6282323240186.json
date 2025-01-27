@@ -738,6 +738,31 @@
       "uang": 10000,
       "lastclaim": 1738012239067,
       "lastrampok": 1738012239067
+    },
+    "6287874704546@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d6711bbcbd1b39d6313e27796d4b05a0",
+      "nick": "~ EzzRich",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738016150382,
+      "lastrampok": 1738016150382
+    },
+    "120363372519377986@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "025a1ffbfcbfd5b866ceec74347f08d1",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738017286849,
+      "lastrampok": 1738017286849
     }
   },
   "chats": {
@@ -994,6 +1019,24 @@
       "mute": false
     },
     "120363364330631981@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363372519377986@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
