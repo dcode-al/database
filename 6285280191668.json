@@ -25,10 +25,22 @@
       "nick": "Sugi Chan",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 99,
       "uang": 10000,
       "lastclaim": 1737960623299,
       "lastrampok": 1737960623299
+    },
+    "120363325026096533@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c3581acf0f32dd3817177a8595b0cf5b",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737995231291,
+      "lastrampok": 1737995231291
     }
   },
   "chats": {
@@ -69,6 +81,24 @@
       "mute": false
     },
     "120363353174007994@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363325026096533@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
