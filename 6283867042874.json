@@ -921,6 +921,19 @@
       "uang": 10000,
       "lastclaim": 1737978551216,
       "lastrampok": 1737978551216
+    },
+    "6282155432430@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c9537ea70d3492e4e3c8ed0d91d1e089",
+      "nick": "~dennlowbat😹",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737979511252,
+      "lastrampok": 1737979511252
     }
   },
   "chats": {
@@ -1303,6 +1316,24 @@
       "mute": false
     },
     "120363370745021921@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "62895338575350@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
