@@ -1,0 +1,166 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "6287776866486@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "901d13538a50b84e5d4561523b9b255f",
+      "nick": "+62 877-7686-6486",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737991504270,
+      "lastrampok": 1737991504270
+    },
+    "6285795269956@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "21ed48cd3698d1d41cb15bd9aabe594f",
+      "nick": "[Raavfy|Raavply]",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 95,
+      "uang": 10000,
+      "lastclaim": 1737991513455,
+      "lastrampok": 1737991513455
+    },
+    "6287778023920@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "29944a7528883ff2a4a1b8d87f2150b9",
+      "nick": "Raavfy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737991697842,
+      "lastrampok": 1737991697842
+    },
+    "6288742518009@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a1603b6f3dbcc4c59eafd13b4c428f91",
+      "nick": "Biyy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737992335853,
+      "lastrampok": 1737992335853
+    }
+  },
+  "chats": {
+    "6287776866486@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285795269956@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363305614062015@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363335170111160@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    }
+  },
+  "settings": {
+    "6287776866486@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "Dcode-al"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 877-7686-6486",
+          "alias": "Yaemiko MD"
+        },
+        "owner": {
+          "nick": "+62 857-9526-9956",
+          "alias": "6285795269956"
+        }
+      }
+    }
+  }
+}
