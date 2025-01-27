@@ -2224,6 +2224,44 @@
       "uang": 10000,
       "lastclaim": 1737977049764,
       "lastrampok": 1737977049764
+    },
+    "120363362873056378@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "23ccaa509a31f90b9629a0d3afd08b95",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737977055848,
+      "lastrampok": 1737977055848
+    },
+    "6285370786474@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "96fde3fbac54d76b9e2e2999d5e0e970",
+      "nick": "DAFZX HOST",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737977065079,
+      "lastrampok": 1737977065079
+    },
+    "6287823774747@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a0ff1d1c0e867e6cec7a291ddc08985b",
+      "nick": "Voltex Store",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737977145985,
+      "lastrampok": 1737977145985
     }
   },
   "chats": {
@@ -2822,6 +2860,24 @@
       "mute": false
     },
     "120363374714235768@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363362873056378@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
