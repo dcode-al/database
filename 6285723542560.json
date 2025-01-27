@@ -12,7 +12,7 @@
       "nick": "+62 857-9413-6314",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1737994756976,
       "lastrampok": 1737994756976
@@ -145,6 +145,19 @@
       "uang": 10000,
       "lastclaim": 1737998748988,
       "lastrampok": 1737998748988
+    },
+    "62895417491021@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "201680f7d5bef9fbaf88338d9de389f6",
+      "nick": "Alvian",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738000091746,
+      "lastrampok": 1738000091746
     }
   },
   "chats": {
@@ -293,6 +306,24 @@
       "mute": false
     },
     "120363352321612025@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363362498803203@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
