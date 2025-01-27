@@ -223,6 +223,45 @@
       "uang": 10000,
       "lastclaim": 1738005729261,
       "lastrampok": 1738005729261
+    },
+    "6285379195310@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4798ac96a030e4d4b29cc9a1c2be0b54",
+      "nick": "vian",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738011157794,
+      "lastrampok": 1738011157794
+    },
+    "6285248962615@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "660c9f4d7debed0bb883a6244b02b9eb",
+      "nick": "𝑉𝑖𝑜𝑙𝑒𝑡",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738011444242,
+      "lastrampok": 1738011444242
+    },
+    "6285767548766@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "de839e7a7d7d533ff8c41c850ac1e671",
+      "nick": "フィン",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738011452072,
+      "lastrampok": 1738011452072
     }
   },
   "chats": {
