@@ -29,10 +29,41 @@
       "uang": 10000,
       "lastclaim": 1737946321869,
       "lastrampok": 1737946321869
+    },
+    "6285191505651@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "512b03958d836ff9e47d715921b22e7e",
+      "nick": "Aizz Not Call Me Paiz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738019585736,
+      "lastrampok": 1738019585736
     }
   },
   "chats": {
     "6288802872711@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363386808621346@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
