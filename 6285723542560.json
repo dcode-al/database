@@ -288,6 +288,45 @@
       "uang": 10000,
       "lastclaim": 1738012916621,
       "lastrampok": 1738012916621
+    },
+    "6281295459224@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "43ad4d69cd0175fd53b9c36f752d5212",
+      "nick": "😈BENO IBLIS PENGHANCUR😈",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738017738329,
+      "lastrampok": 1738017738329
+    },
+    "6283188281339@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8b67103757a21778a3a99532287be291",
+      "nick": "Aminah",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738018540286,
+      "lastrampok": 1738018540286
+    },
+    "628819318189@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e4f6601c034cdf26812c861f025a5de6",
+      "nick": "ツ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738018542473,
+      "lastrampok": 1738018542473
     }
   },
   "chats": {
@@ -454,6 +493,24 @@
       "mute": false
     },
     "120363362498803203@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363292452372367@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
