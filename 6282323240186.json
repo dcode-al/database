@@ -623,6 +623,32 @@
       "uang": 10000,
       "lastclaim": 1737987322466,
       "lastrampok": 1737987322466
+    },
+    "155882046365719@lid": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b37c1eacddb046422f8d668210790e2f",
+      "nick": "Mno",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737990724462,
+      "lastrampok": 1737990724462
+    },
+    "122467016298745@lid": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "01023e2b6be3ba3d81a96f232a470d3b",
+      "nick": "Tedy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1737991784261,
+      "lastrampok": 1737991784261
     }
   },
   "chats": {
