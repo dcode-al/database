@@ -763,6 +763,19 @@
       "uang": 10000,
       "lastclaim": 1738017286849,
       "lastrampok": 1738017286849
+    },
+    "6281314960684@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "58316e4f1662fa26a3f57af81b54aae8",
+      "nick": "Mbak Bella",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738021594604,
+      "lastrampok": 1738021594604
     }
   },
   "chats": {
