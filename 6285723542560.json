@@ -1546,6 +1546,32 @@
       "uang": 10000,
       "lastclaim": 1738037641512,
       "lastrampok": 1738037641512
+    },
+    "6281244442970@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e9075292ed5f3f74e22cc09dd7cc5ab4",
+      "nick": "Shinn",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738037950500,
+      "lastrampok": 1738037950500
+    },
+    "6282123218346@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0bae7f05602dcb7f20b5a70d0877c745",
+      "nick": "Widya Ervina",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738038087501,
+      "lastrampok": 1738038087501
     }
   },
   "chats": {
