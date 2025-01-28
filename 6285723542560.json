@@ -327,6 +327,19 @@
       "uang": 10000,
       "lastclaim": 1738018542473,
       "lastrampok": 1738018542473
+    },
+    "628156582645@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2eb47541ca1caafbc1231dc6c59e085e",
+      "nick": "saskya",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738020864297,
+      "lastrampok": 1738020864297
     }
   },
   "chats": {
@@ -511,6 +524,24 @@
       "mute": false
     },
     "120363292452372367@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6283867042874@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
