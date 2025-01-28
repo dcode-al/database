@@ -115,7 +115,7 @@
       "nick": "Varr~",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 99,
       "uang": 10000,
       "lastclaim": 1737997836429,
       "lastrampok": 1737997836429
@@ -405,6 +405,32 @@
       "uang": 10000,
       "lastclaim": 1738026010730,
       "lastrampok": 1738026010730
+    },
+    "62895332876925@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "875c83c6f14e4ab8814b47915effff1d",
+      "nick": "Kerang Madura",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738026425238,
+      "lastrampok": 1738026425238
+    },
+    "917024592166@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "24251c5f0a5232112e17b4278599dce6",
+      "nick": "Ak",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738026603116,
+      "lastrampok": 1738026603116
     }
   },
   "chats": {
