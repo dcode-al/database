@@ -1715,6 +1715,19 @@
       "uang": 10000,
       "lastclaim": 1738040843024,
       "lastrampok": 1738040843024
+    },
+    "919080061274@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7f54a34ffc8fd2d7f9f6a8b621feb8bc",
+      "nick": "JS Uchiha",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738041228010,
+      "lastrampok": 1738041228010
     }
   },
   "chats": {
