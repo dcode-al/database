@@ -144,6 +144,32 @@
       "uang": 10000,
       "lastclaim": 1738032334205,
       "lastrampok": 1738032334205
+    },
+    "6285119053226@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7d0c5f9a186f227f747cead5e771abb9",
+      "nick": "VARGAS STORE",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738047859911,
+      "lastrampok": 1738047859911
+    },
+    "6285847296331@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8734729f1ca0cd5da925ac14f2521ed9",
+      "nick": "dika",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738047859930,
+      "lastrampok": 1738047859930
     }
   },
   "chats": {
@@ -778,6 +804,24 @@
       "mute": false
     },
     "6287843036864@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285604838279@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
