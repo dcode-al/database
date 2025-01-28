@@ -854,6 +854,19 @@
       "uang": 10000,
       "lastclaim": 1738033128051,
       "lastrampok": 1738033128051
+    },
+    "256199698165958@lid": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "520035a9c94a1eda9581874a156d6659",
+      "nick": "bot",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738034821761,
+      "lastrampok": 1738034821761
     }
   },
   "chats": {
