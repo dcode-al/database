@@ -77,6 +77,31 @@
       "uang": 10000,
       "lastclaim": 1738038621493,
       "lastrampok": 1738038621493
+    },
+    "84332186190042@lid": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "5acaf97d83ff2cfd6a8344d9c4db2010",
+      "nick": "fahri atom hidrogen",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738041956021,
+      "lastrampok": 1738041956021
+    },
+    "120363314272136763@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "555b0ec45c2991de8effb7954bf6c125",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738044445206,
+      "lastrampok": 1738044445206
     }
   },
   "chats": {
@@ -207,6 +232,42 @@
       "mute": false
     },
     "120363364330631981@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363307901498241@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363314272136763@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
