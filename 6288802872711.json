@@ -107,6 +107,19 @@
       "uang": 10000,
       "lastclaim": 1738023830559,
       "lastrampok": 1738023830559
+    },
+    "6285274582343@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2d513cba22908ca4f87a210b4b0cbaab",
+      "nick": "p for piki",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738027324498,
+      "lastrampok": 1738027324498
     }
   },
   "chats": {
