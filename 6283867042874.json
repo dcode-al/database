@@ -1194,6 +1194,19 @@
       "uang": 10000,
       "lastclaim": 1738036074451,
       "lastrampok": 1738036074451
+    },
+    "6283141114772@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4a20e8119bc0138542bf7f2d6c868f1d",
+      "nick": "Sanz Store",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738036284486,
+      "lastrampok": 1738036284486
     }
   },
   "chats": {
@@ -1666,6 +1679,24 @@
       "mute": false
     },
     "6285705846039@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6282232217988@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
