@@ -743,6 +743,58 @@
       "uang": 10000,
       "lastclaim": 1738030244003,
       "lastrampok": 1738030244003
+    },
+    "6288802105801@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "495a518098faffd803895b37509eda07",
+      "nick": "xifutang kokonat",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738030486061,
+      "lastrampok": 1738030486061
+    },
+    "6285213829966@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "cf5a6c99ec46b97cba4774207346c94d",
+      "nick": "...?",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738030511178,
+      "lastrampok": 1738030511178
+    },
+    "6283101362259@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "93c98664f305a4c8e9611e842643e2b6",
+      "nick": "━ ℤahh･ﾟ✧",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738030517597,
+      "lastrampok": 1738030517597
+    },
+    "6281246446344@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "93fa3b8736f40b8134dfef56be738a3e",
+      "nick": "JOK1NAKAASTORE.",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738030624025,
+      "lastrampok": 1738030624025
     }
   },
   "chats": {
@@ -945,6 +997,24 @@
       "mute": false
     },
     "6283867042874@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363218383902050@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
