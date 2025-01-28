@@ -930,6 +930,19 @@
       "uang": 10000,
       "lastclaim": 1738037641489,
       "lastrampok": 1738037641489
+    },
+    "62895401523962@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "664f36b736e2151ad0d70540f34533da",
+      "nick": "SanjiGTPS [OPEN PROMOTE]",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738044297525,
+      "lastrampok": 1738044297525
     }
   },
   "chats": {
