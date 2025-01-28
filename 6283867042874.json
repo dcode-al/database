@@ -1220,6 +1220,19 @@
       "uang": 10000,
       "lastclaim": 1738036627704,
       "lastrampok": 1738036627704
+    },
+    "6287849472724@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4234d414431c10f7650635286cf25846",
+      "nick": "PLADO",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738037408912,
+      "lastrampok": 1738037408912
     }
   },
   "chats": {
