@@ -802,6 +802,19 @@
       "uang": 10000,
       "lastclaim": 1738026959035,
       "lastrampok": 1738026959035
+    },
+    "62895323612683@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9ffba2d7ff26f6a3c8b6bdbff32de2cd",
+      "nick": "Kepinn",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738030798985,
+      "lastrampok": 1738030798985
     }
   },
   "chats": {
