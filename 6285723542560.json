@@ -115,7 +115,7 @@
       "nick": "Varr~",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 98,
       "uang": 10000,
       "lastclaim": 1737997836429,
       "lastrampok": 1737997836429
@@ -431,6 +431,19 @@
       "uang": 10000,
       "lastclaim": 1738026603116,
       "lastrampok": 1738026603116
+    },
+    "6283150511791@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "bbe8bbd2ee087fd941d49d65c0de1562",
+      "nick": "âca-chãn 大♡",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738026885281,
+      "lastrampok": 1738026885281
     }
   },
   "chats": {
