@@ -776,6 +776,32 @@
       "uang": 10000,
       "lastclaim": 1738021594604,
       "lastrampok": 1738021594604
+    },
+    "6283878452586@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "64fb98ee99af14ce0f05c4214da156e4",
+      "nick": ".",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738026873822,
+      "lastrampok": 1738026873822
+    },
+    "62895403191480@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "29f40cd70a83e759098b9f21213eb24d",
+      "nick": "TaylorGtps Share",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738026959035,
+      "lastrampok": 1738026959035
     }
   },
   "chats": {
