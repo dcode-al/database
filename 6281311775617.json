@@ -65,6 +65,19 @@
       "uang": 10000,
       "lastclaim": 1738088930163,
       "lastrampok": 1738088930163
+    },
+    "6287859175212@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "76a71eb7d240e63881120cd82009337b",
+      "nick": "hua adindaaakkk",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 98,
+      "uang": 10000,
+      "lastclaim": 1738100914340,
+      "lastrampok": 1738100914340
     }
   },
   "chats": {
@@ -159,6 +172,24 @@
       "mute": false
     },
     "120363365205748693@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6287859175212@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
