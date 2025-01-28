@@ -867,6 +867,32 @@
       "uang": 10000,
       "lastclaim": 1738034821761,
       "lastrampok": 1738034821761
+    },
+    "108018528219301@lid": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b20f48253ce52ccf9e253833a75e0d9a",
+      "nick": "hann",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738035435155,
+      "lastrampok": 1738035435155
+    },
+    "6285189083078@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9029fa713e9116fc2319190bfb404a31",
+      "nick": "herpics!",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738036117912,
+      "lastrampok": 1738036117912
     }
   },
   "chats": {
