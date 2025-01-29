@@ -1048,6 +1048,83 @@
       "uang": 10000,
       "lastclaim": 1738142288801,
       "lastrampok": 1738142288801
+    },
+    "6285879384301@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "01e668a2175f9467a051f0e32503e6cc",
+      "nick": "Zaki",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738142766869,
+      "lastrampok": 1738142766869
+    },
+    "120363372140715992@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "17ee7401ea91f0b36b8ff6642062effc",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738145484920,
+      "lastrampok": 1738145484920
+    },
+    "6283111036395@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "669386e77c493fd757c39fcc5cc1eff3",
+      "nick": "𝚛𝚎𝚚𝚞𝚒𝚛𝚎.𝚘𝚠𝚗𝚎𝚛 = ('/𝙰𝚛𝚌𝚑𝚒𝚘.𝚓𝚜'\\)",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738148668534,
+      "lastrampok": 1738148668534
+    },
+    "6285712657638@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "956e1ae12b0d1f25ff19a2f282537275",
+      "nick": "Fadel",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738151700191,
+      "lastrampok": 1738151700191
+    },
+    "6285886426995@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e410d103a8b8ffd74a9832f1fbb85fe9",
+      "nick": "jemir",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738152398004,
+      "lastrampok": 1738152398004
+    },
+    "6285715644008@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a1225de433ae710aae2346cbb162d8e6",
+      "nick": "Repin",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738152967921,
+      "lastrampok": 1738152967921
     }
   },
   "chats": {
@@ -2150,6 +2227,24 @@
       "mute": false
     },
     "120363350326918169@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363372140715992@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
