@@ -12,7 +12,7 @@
       "nick": "-Ir",
       "premium": false,
       "totalLimit": 0,
-      "limit": 29,
+      "limit": 28,
       "uang": 10000,
       "lastclaim": 1738047457766,
       "lastrampok": 1738047457766
@@ -999,6 +999,31 @@
       "uang": 10000,
       "lastclaim": 1738122773250,
       "lastrampok": 1738122773250
+    },
+    "120363312674991016@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "6613ffd23ad5cec1b719464353350cb2",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738126123239,
+      "lastrampok": 1738126123239
+    },
+    "6282137435046@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "163278386fcd8728439fc75bea3c8755",
+      "nick": "Admin Zakki Store",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738127629950,
+      "lastrampok": 1738127629950
     }
   },
   "chats": {
@@ -2029,6 +2054,42 @@
       "mute": false
     },
     "120363301001032262@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363312674991016@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363299691858375@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
