@@ -12,7 +12,7 @@
       "nick": "-Ir",
       "premium": false,
       "totalLimit": 0,
-      "limit": 28,
+      "limit": 27,
       "uang": 10000,
       "lastclaim": 1738047457766,
       "lastrampok": 1738047457766
@@ -1024,6 +1024,30 @@
       "uang": 10000,
       "lastclaim": 1738127629950,
       "lastrampok": 1738127629950
+    },
+    "120363312724794571@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4a51bc65e917334ba365627b83bd9096",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738140868890,
+      "lastrampok": 1738140868890
+    },
+    "120363350326918169@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9346ba8d6a0a6d4a1f322695a0e7c279",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738142288801,
+      "lastrampok": 1738142288801
     }
   },
   "chats": {
@@ -2090,6 +2114,42 @@
       "mute": false
     },
     "120363299691858375@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363312724794571@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363350326918169@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
