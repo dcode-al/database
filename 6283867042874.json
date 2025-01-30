@@ -4,87 +4,100 @@
   "game": {},
   "others": {},
   "users": {
-    "6282338949842@s.whatsapp.net": {
+    "62895370152637@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "526389e0fc8e73d503529cd12de9b98d",
-      "nick": "JURAGAN HANZZ",
+      "serialNumber": "73cefae2fbde47e42125003b9eb4b941",
+      "nick": "+62 895-3701-52637",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738245155374,
-      "lastrampok": 1738245155374
+      "lastclaim": 1738244746514,
+      "lastrampok": 1738244746514
     },
-    "6282136874438@s.whatsapp.net": {
+    "62895605811717@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "b4f8851cb6578675a4d973cd69c5a589",
-      "nick": "gulali",
+      "serialNumber": "db4cbc7895d3aea617bc09bf56b4e205",
+      "nick": "w⁠(⁠°⁠ｏ⁠°⁠)⁠w",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738245156504,
-      "lastrampok": 1738245156504
+      "lastclaim": 1738244792459,
+      "lastrampok": 1738244792459
     },
-    "6285767129105@s.whatsapp.net": {
+    "628896696959@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "95bb532067f9c008d4f12bb8d10e3b2e",
-      "nick": "Halesyaa💋",
+      "serialNumber": "d588b6a0d64e7849cfa5ecc2188d6492",
+      "nick": "Qqql",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738245156719,
-      "lastrampok": 1738245156719
+      "lastclaim": 1738245570168,
+      "lastrampok": 1738245570168
     },
-    "6285829267957@s.whatsapp.net": {
+    "6285770198948@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "6c2cc5bcbc5cbb71170b9438c41ee464",
-      "nick": "RAY4YOU {7957}",
+      "serialNumber": "d4a3c98a9667043749ebb89598f6264c",
+      "nick": "evos#kutu*!",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738245159800,
-      "lastrampok": 1738245159800
+      "lastclaim": 1738245601117,
+      "lastrampok": 1738245601117
     },
-    "6287846419204@s.whatsapp.net": {
+    "6285141116878@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "b6e9d22f60441f1c24611cd0554253f4",
-      "nick": "suliss",
+      "serialNumber": "675ea0dd52c9e67601a8fd3d91e7b89c",
+      "nick": "elfran",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738245162185,
-      "lastrampok": 1738245162185
+      "lastclaim": 1738245960426,
+      "lastrampok": 1738245960426
     },
-    "6287776663425@s.whatsapp.net": {
+    "6285643454531@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "d17ea1522457987162a71b0acedb8abe",
-      "nick": "Eline greselyn agatha",
+      "serialNumber": "00d51c1639ef8acc102ea9963d0772b2",
+      "nick": "★",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738245166300,
-      "lastrampok": 1738245166300
+      "lastclaim": 1738245987729,
+      "lastrampok": 1738245987729
+    },
+    "6281770202251@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8ab16c9d2c6b44fc48a8e01ce2f89863",
+      "nick": "︎",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738246590006,
+      "lastrampok": 1738246590006
     }
   },
   "chats": {
-    "120363373296208727@g.us": {
+    "62895370152637@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -102,7 +115,25 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6282136874438@s.whatsapp.net": {
+    "120363390381404587@g.us": {
+      "badword": true,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": true,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363371663282872@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -120,7 +151,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363333518719726@g.us": {
+    "6285656915493@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -138,12 +169,12 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363319326887609@g.us": {
+    "120363367923741423@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
       "antibot": false,
-      "antispam": false,
+      "antispam": true,
       "antimedia": false,
       "antiimage": false,
       "antivideo": false,
@@ -156,7 +187,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6283867042874@s.whatsapp.net": {
+    "120363377842506988@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -176,7 +207,7 @@
     }
   },
   "settings": {
-    "6282136874438@s.whatsapp.net": {
+    "62895370152637@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -197,7 +228,7 @@
       },
       "about": {
         "bot": {
-          "nick": "gulali",
+          "nick": "+62 895-3701-52637",
           "alias": "Yaemiko MD"
         },
         "owner": {
