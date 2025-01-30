@@ -491,7 +491,7 @@
       "nick": "𝓡 ᥫ᭡",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738160585748,
       "lastrampok": 1738160585748
@@ -2455,7 +2455,7 @@
       "nick": "Kwon Sahi Kanca—·",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 99,
       "uang": 10000,
       "lastclaim": 1738206119325,
       "lastrampok": 1738206119325
@@ -2701,6 +2701,71 @@
       "uang": 10000,
       "lastclaim": 1738210181562,
       "lastrampok": 1738210181562
+    },
+    "601161726103@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0706b432ea5f1dcfd0beb7b0f6b22865",
+      "nick": "~maybe?",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738211809397,
+      "lastrampok": 1738211809397
+    },
+    "60143986469@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "667b90c098f2cc04abb8bd8bb65fa3a4",
+      "nick": "JO YURIII🤍😽",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738212055938,
+      "lastrampok": 1738212055938
+    },
+    "6285147640044@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "760903243419f9fe905139da5e1c9e48",
+      "nick": "bernadyaaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738212834247,
+      "lastrampok": 1738212834247
+    },
+    "6285723542560@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b7d9e2820bf4b3e457a64be2e5f88e77",
+      "nick": "zëñ- kûñ大♡",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738213011136,
+      "lastrampok": 1738213011136
+    },
+    "6283862736854@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a73d9c3dccb1e92e50f8ca4faa001af3",
+      "nick": "17iL",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738213390346,
+      "lastrampok": 1738213390346
     }
   },
   "chats": {
@@ -3587,6 +3652,24 @@
       "mute": false
     },
     "120363305924237848@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "60143986469@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
