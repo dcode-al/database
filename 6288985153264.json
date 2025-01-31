@@ -25,7 +25,7 @@
       "nick": "rza",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 28,
       "uang": 10000,
       "lastclaim": 1738224042578,
       "lastrampok": 1738224042578
@@ -250,6 +250,24 @@
       "mute": false
     },
     "120363299719848392@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6288980130040@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
