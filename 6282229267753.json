@@ -116,6 +116,19 @@
       "uang": 10000,
       "lastclaim": 1738245304702,
       "lastrampok": 1738245304702
+    },
+    "6285942093886@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0f9690542edd5a21ff23add197525016",
+      "nick": "Minthi Diamonds shop",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738288013206,
+      "lastrampok": 1738288013206
     }
   },
   "chats": {
@@ -332,6 +345,24 @@
       "antilocation": false,
       "antidocument": false,
       "antilink": true,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "62895401530710@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
       "antilinkgc": false,
       "mute": false
     }
