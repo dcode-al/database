@@ -1271,7 +1271,7 @@
       "nick": "depaarab🇪🇪",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738319892059,
       "lastrampok": 1738319892059
@@ -4785,6 +4785,58 @@
       "uang": 10000,
       "lastclaim": 1738355183590,
       "lastrampok": 1738355183590
+    },
+    "6288228631527@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "98fddd125785f2cf2fe9b742d8974ae5",
+      "nick": "rannz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738362166106,
+      "lastrampok": 1738362166106
+    },
+    "6283179478695@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "1af2aedd9e24c8e420a3dbab01cba4e3",
+      "nick": "Adit",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738363451915,
+      "lastrampok": 1738363451915
+    },
+    "6285182674954@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4c328eb8948c7a93a66a96e1c6c92757",
+      "nick": "abcdùcor",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738363949167,
+      "lastrampok": 1738363949167
+    },
+    "6283159630403@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f6be998a73a82482b9e7eda675d335a8",
+      "nick": "ㅤ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738365298320,
+      "lastrampok": 1738365298320
     }
   },
   "chats": {
