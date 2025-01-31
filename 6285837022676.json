@@ -1,0 +1,164 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "6285767287634@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "5ce30fd714a8fe2fb822e1328d7b9655",
+      "nick": "+62 857-6728-7634",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738331580648,
+      "lastrampok": 1738331580648
+    },
+    "120363299719848392@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4ac36d3b0fc03720516ddf46a139b9bf",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738333578318,
+      "lastrampok": 1738333578318
+    },
+    "120363306209734832@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7d04f715e2df67b7db1192d47c9e7535",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738333681620,
+      "lastrampok": 1738333681620
+    },
+    "6285837022676@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d405c71052b474652b0c000e5eca6618",
+      "nick": ".",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738334882177,
+      "lastrampok": 1738334882177
+    }
+  },
+  "chats": {
+    "6285767287634@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363299719848392@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363306209734832@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285837022676@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    }
+  },
+  "settings": {
+    "6285767287634@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": true,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "vylinn"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 857-6728-7634",
+          "alias": "lynn MD"
+        },
+        "owner": {
+          "nick": "+62 858-3702-2676",
+          "alias": "6285837022676"
+        }
+      }
+    }
+  }
+}
