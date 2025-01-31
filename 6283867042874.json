@@ -4,35 +4,22 @@
   "game": {},
   "others": {},
   "users": {
-    "6285138202180@s.whatsapp.net": {
+    "6281529780498@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "8138be7e913866b34c8294337110f186",
-      "nick": "halo bang",
+      "serialNumber": "bc5c48cdfa74589abb1a7fa9ed147f0d",
+      "nick": "Amar Muhammad",
       "premium": false,
       "totalLimit": 0,
-      "limit": 97,
+      "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738351849073,
-      "lastrampok": 1738351849073
-    },
-    "6287713642545@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "130901d532365bf5e628c97853498f66",
-      "nick": "baddz",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 99,
-      "uang": 10000,
-      "lastclaim": 1738351984737,
-      "lastrampok": 1738351984737
+      "lastclaim": 1738337496963,
+      "lastrampok": 1738337496963
     }
   },
   "chats": {
-    "6285138202180@s.whatsapp.net": {
+    "6281529780498@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -50,25 +37,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6287713642545@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363394752403728@g.us": {
+    "6283829232356@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -88,7 +57,7 @@
     }
   },
   "settings": {
-    "6285138202180@s.whatsapp.net": {
+    "6281529780498@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -109,7 +78,7 @@
       },
       "about": {
         "bot": {
-          "nick": "halo bang",
+          "nick": "Amar Muhammad",
           "alias": "Yaemiko MD"
         },
         "owner": {
