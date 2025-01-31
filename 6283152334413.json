@@ -392,6 +392,58 @@
       "uang": 10000,
       "lastclaim": 1738296885975,
       "lastrampok": 1738296885975
+    },
+    "6282230253653@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "05a883bedd3841933849298b86c90b05",
+      "nick": "𝑭𝑨𝑹𝑫",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738297701858,
+      "lastrampok": 1738297701858
+    },
+    "6283833389714@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "86b07ae236f2108fa3fd5302230f47b1",
+      "nick": "FWP",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738299545673,
+      "lastrampok": 1738299545673
+    },
+    "6282294288599@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "abd8b911da6daa0615cda115b64c8b10",
+      "nick": "JNTEXPRESS TRANSPOR 🚀🔥",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738299799473,
+      "lastrampok": 1738299799473
+    },
+    "62814105259788@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "500131c413f9560a5b4598f8bcd9959a",
+      "nick": "Asisten Aesxice",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738300666958,
+      "lastrampok": 1738300666958
     }
   },
   "chats": {
@@ -504,6 +556,24 @@
       "mute": false
     },
     "6289656277900@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "62814105259788@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
