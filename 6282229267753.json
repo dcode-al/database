@@ -129,6 +129,32 @@
       "uang": 10000,
       "lastclaim": 1738288013206,
       "lastrampok": 1738288013206
+    },
+    "628999800123@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ae41b825e023611e7204e7955408ca41",
+      "nick": "628999800123",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738305992582,
+      "lastrampok": 1738305992582
+    },
+    "62895401530710@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ac6c248e86c71dd1f2e904c2a037e20b",
+      "nick": "lalilu2601",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738315513535,
+      "lastrampok": 1738315513535
     }
   },
   "chats": {
@@ -349,6 +375,24 @@
       "mute": false
     },
     "62895401530710@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "628999800123@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
