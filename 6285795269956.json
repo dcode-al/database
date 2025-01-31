@@ -8,79 +8,52 @@
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "077e8f8e4e66f3c7c15cdcb33902a9d5",
+      "serialNumber": "1ebb0a9d170795ae6c2a17d44905d4d6",
       "nick": "+62 877-7686-6486",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738252971146,
-      "lastrampok": 1738252971146
+      "lastclaim": 1738308051040,
+      "lastrampok": 1738308051040
     },
     "6285795269956@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "301d8e78bbfe192bc1e4abf763e228b1",
-      "nick": "Raffi",
+      "serialNumber": "9700be94f05e024d898709caba257fb9",
+      "nick": "Raavfy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738253092743,
-      "lastrampok": 1738253092744
+      "lastclaim": 1738308059752,
+      "lastrampok": 1738308059752
     },
     "6287778023920@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "afeb5c5febebb6913022794825bba3b5",
-      "nick": "RAFFI ACHMAD JALALUDDIN",
+      "serialNumber": "8dd5f9b4645107adb85875b7f8d2861d",
+      "nick": "BOT MD V2",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738253461021,
-      "lastrampok": 1738253461021
+      "lastclaim": 1738308069167,
+      "lastrampok": 1738308069167
     },
-    "6281266611758@s.whatsapp.net": {
+    "120363299719848392@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "099801c604441a8b4edae4086f47696a",
-      "nick": "nadiaqtrn",
+      "serialNumber": "2ec4efb1f6b24c7f2949f1d314a37333",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738253735028,
-      "lastrampok": 1738253735028
-    },
-    "6283844881772@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "62746efec69c4ba93d24cceb6d7737c7",
-      "nick": "Ryuzèn",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738253965558,
-      "lastrampok": 1738253965558
-    },
-    "6285135551255@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "02217ac6307a3c0a3862cc90415b4e15",
-      "nick": "BOT MD",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738254380927,
-      "lastrampok": 1738254380927
+      "lastclaim": 1738308494286,
+      "lastrampok": 1738308494286
     }
   },
   "chats": {
@@ -102,7 +75,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363335170111160@g.us": {
+    "120363305614062015@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -120,7 +93,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363305614062015@g.us": {
+    "120363299719848392@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
