@@ -1,0 +1,164 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "60176441242@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "caee46a74cff3679e3fd70c2ec28e083",
+      "nick": "+60 17-644 1242",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738210326514,
+      "lastrampok": 1738210326514
+    },
+    "6283159675585@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "825c05f0932333105358986f22e450fe",
+      "nick": "fevèreiro dè kuińato",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738210353683,
+      "lastrampok": 1738210353683
+    },
+    "120363299719848392@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c89b80d0a0e494d16b975ed23fbf9dfc",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738246803561,
+      "lastrampok": 1738246803561
+    },
+    "120363306209734832@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f857eb37f7fdd90d11da6ae09332ae88",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738319178326,
+      "lastrampok": 1738319178326
+    }
+  },
+  "chats": {
+    "60176441242@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6283159675585@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363299719848392@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363306209734832@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    }
+  },
+  "settings": {
+    "60176441242@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "Febb"
+      },
+      "about": {
+        "bot": {
+          "nick": "+60 17-644 1242",
+          "alias": "Yaww"
+        },
+        "owner": {
+          "nick": "+62 831-5967-5585",
+          "alias": "6283159675585"
+        }
+      }
+    }
+  }
+}
