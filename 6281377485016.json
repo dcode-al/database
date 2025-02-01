@@ -362,7 +362,7 @@
       "nick": "Yow",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738139157868,
       "lastrampok": 1738139157868
@@ -1495,6 +1495,32 @@
       "uang": 10000,
       "lastclaim": 1738378718866,
       "lastrampok": 1738378718866
+    },
+    "6282275009646@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ea733f2f9f6549f9b525b36b6eaaf343",
+      "nick": "Hamidah",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738383894961,
+      "lastrampok": 1738383894961
+    },
+    "62895324461656@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ac36c0d9299c272b2ab71bc2216debbd",
+      "nick": "BsK  • RaPs😈",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738383994714,
+      "lastrampok": 1738383994714
     }
   },
   "chats": {
@@ -1877,6 +1903,42 @@
       "mute": false
     },
     "6289510674082@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6282275009646@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "62895324461656@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
