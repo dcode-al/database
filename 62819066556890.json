@@ -1053,6 +1053,19 @@
       "uang": 10000,
       "lastclaim": 1738421475223,
       "lastrampok": 1738421475223
+    },
+    "6282260390522@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c61d2cb7a51c1dec4f020adb0a90e793",
+      "nick": "Fawaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738424545282,
+      "lastrampok": 1738424545282
     }
   },
   "chats": {
