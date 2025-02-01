@@ -962,6 +962,32 @@
       "uang": 10000,
       "lastclaim": 1738398003379,
       "lastrampok": 1738398003379
+    },
+    "6287891420083@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "65ad65b9d8768d0c3e282084bd906568",
+      "nick": "april",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738402935438,
+      "lastrampok": 1738402935438
+    },
+    "6285875115378@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8b5a5e77ed3779a2693d1a8ed532f83f",
+      "nick": "Kevin Pratama",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738402979473,
+      "lastrampok": 1738402979473
     }
   },
   "chats": {
