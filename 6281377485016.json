@@ -1677,6 +1677,58 @@
       "uang": 10000,
       "lastclaim": 1738411008367,
       "lastrampok": 1738411008367
+    },
+    "6281214601781@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8160a8a7fb8b49d3b8dd683d5ae1ce2b",
+      "nick": "rizstore",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738412609934,
+      "lastrampok": 1738412609934
+    },
+    "6289652355650@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b8de88b1f9550defad6053ffc04ea922",
+      "nick": "Rikzz Shu",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738414600277,
+      "lastrampok": 1738414600277
+    },
+    "6285694070710@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "5dd9535e4ce10e39df1c41d4a25a6128",
+      "nick": "hlmannn",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738417285246,
+      "lastrampok": 1738417285246
+    },
+    "6285191705946@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4397ec55ecf0bb0c3eeedc5dbc2ef136",
+      "nick": "kenx",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738417459347,
+      "lastrampok": 1738417459347
     }
   },
   "chats": {
@@ -2131,6 +2183,24 @@
       "mute": false
     },
     "120363374923265913@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6281342039981@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
