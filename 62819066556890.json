@@ -988,6 +988,45 @@
       "uang": 10000,
       "lastclaim": 1738402979473,
       "lastrampok": 1738402979473
+    },
+    "6285788891261@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c1328a576594662aa49398c3e6ddba70",
+      "nick": "Hh",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738410142311,
+      "lastrampok": 1738410142311
+    },
+    "6285141108174@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b64a78c924e9a882385963eb2d597063",
+      "nick": "FOXT STORE",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738410888201,
+      "lastrampok": 1738410888201
+    },
+    "6281400694738@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b0f13559db776093023fa2d549941a14",
+      "nick": "Piawai Erlngga",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738412106545,
+      "lastrampok": 1738412106545
     }
   },
   "chats": {
@@ -1136,6 +1175,24 @@
       "mute": false
     },
     "120363391222487605@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285788891261@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
