@@ -11,7 +11,7 @@
       "serialNumber": "ab39afb908b550fb85fbcc7e15b6d334",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738326043846,
       "lastrampok": 1738326043846
@@ -24,7 +24,7 @@
       "nick": "A For Asahavey",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738326249010,
       "lastrampok": 1738326249010
@@ -37,7 +37,7 @@
       "nick": "AMBA BOT",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738326249503,
       "lastrampok": 1738326249503
@@ -50,7 +50,7 @@
       "nick": "kall",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738326308255,
       "lastrampok": 1738326308255
@@ -62,7 +62,7 @@
       "serialNumber": "11036185e0c663720138188017580e04",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738326362124,
       "lastrampok": 1738326362124
@@ -74,7 +74,7 @@
       "serialNumber": "f8fca681a57f13cb33ec1d50a0220e0b",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738327457830,
       "lastrampok": 1738327457830
@@ -87,7 +87,7 @@
       "nick": "s",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738327468986,
       "lastrampok": 1738327468986
@@ -100,7 +100,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738327711065,
       "lastrampok": 1738327711065
@@ -112,7 +112,7 @@
       "serialNumber": "7c9032d590c2f25e2fed7c854170a2cb",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738329634319,
       "lastrampok": 1738329634319
@@ -124,7 +124,7 @@
       "serialNumber": "acd8c9f0630d6d23ffc6fffd8612da67",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738329851823,
       "lastrampok": 1738329851823
@@ -136,7 +136,7 @@
       "serialNumber": "f90bf1450299f79f7c818f1d38f3b5bd",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738331054505,
       "lastrampok": 1738331054505
@@ -148,7 +148,7 @@
       "serialNumber": "90101e7c229bf07aa9250a0d487982c2",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738331915653,
       "lastrampok": 1738331915653
@@ -160,7 +160,7 @@
       "serialNumber": "0ecd53cd733c7c7b6e5f86a27486f66b",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738332521475,
       "lastrampok": 1738332521475
@@ -172,10 +172,46 @@
       "serialNumber": "a42a51813020ec70bf4986da795859e3",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 30,
       "uang": 10000,
       "lastclaim": 1738333681677,
       "lastrampok": 1738333681677
+    },
+    "120363374006048687@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d08ee85d1c5dc5a150aab44bb93c6bda",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738338272823,
+      "lastrampok": 1738338272823
+    },
+    "120363327664353736@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "304065748b467211755ddae9af005003",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738354505991,
+      "lastrampok": 1738354505991
+    },
+    "120363388133221856@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "90fd5d25c9318a29ebfa94e77132022b",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738364012670,
+      "lastrampok": 1738364012670
     }
   },
   "chats": {
@@ -378,6 +414,60 @@
       "mute": false
     },
     "120363306209734832@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363374006048687@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363327664353736@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363388133221856@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
