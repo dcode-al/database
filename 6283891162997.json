@@ -24,7 +24,7 @@
       "nick": "A For Asahavey",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738326249010,
       "lastrampok": 1738326249010
@@ -272,6 +272,19 @@
       "uang": 10000,
       "lastclaim": 1738379434186,
       "lastrampok": 1738379434186
+    },
+    "6282127454003@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "258c0a2f6d940166169610b99cc4aa58",
+      "nick": "~jaaaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738389723679,
+      "lastrampok": 1738389723679
     }
   },
   "chats": {
@@ -618,6 +631,24 @@
       "mute": false
     },
     "120363372612238277@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363376399967256@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
