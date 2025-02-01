@@ -1638,6 +1638,45 @@
       "uang": 10000,
       "lastclaim": 1738408894413,
       "lastrampok": 1738408894413
+    },
+    "6282197848878@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b6a20aab1a0c44c5468a76ce4d15f5d4",
+      "nick": "pria sigma",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738409866689,
+      "lastrampok": 1738409866689
+    },
+    "6288290432763@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8ef57b8669619033b14cdeec4505caf8",
+      "nick": "Razz [sonic]",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738410596526,
+      "lastrampok": 1738410596526
+    },
+    "6283866268048@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d6e7663b1a6aea9799ac8893477aa992",
+      "nick": "r",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738411008367,
+      "lastrampok": 1738411008367
     }
   },
   "chats": {
@@ -2074,6 +2113,24 @@
       "mute": false
     },
     "120363394736547402@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363374923265913@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
