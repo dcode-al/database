@@ -1569,7 +1569,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 98,
       "uang": 10000,
       "lastclaim": 1738394015896,
       "lastrampok": 1738394015896
@@ -1599,6 +1599,45 @@
       "uang": 10000,
       "lastclaim": 1738398778654,
       "lastrampok": 1738398778654
+    },
+    "6281342039981@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "3970671ac421a3861d0cce74fe1b340b",
+      "nick": "j",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738406977717,
+      "lastrampok": 1738406977717
+    },
+    "6287725325980@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "3eaec511bd201cb6602124abb80f0ecf",
+      "nick": "FEL",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738408693003,
+      "lastrampok": 1738408693003
+    },
+    "6285646831693@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d79694f9ab83fe52c2cc96e6eb39289e",
+      "nick": "pinoo??",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738408894413,
+      "lastrampok": 1738408894413
     }
   },
   "chats": {
@@ -2017,6 +2056,24 @@
       "mute": false
     },
     "62895324461656@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363394736547402@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
