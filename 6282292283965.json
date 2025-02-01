@@ -936,6 +936,32 @@
       "uang": 10000,
       "lastclaim": 1738379780317,
       "lastrampok": 1738379780317
+    },
+    "628388691736@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "15dcfefb2a6b0fff216c5fb7614c09ae",
+      "nick": "Noxxareall",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738380236965,
+      "lastrampok": 1738380236965
+    },
+    "886905112247@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "93e8d6e500cdbf5daf1cb896283fb6ea",
+      "nick": "don",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738380273536,
+      "lastrampok": 1738380273536
     }
   },
   "chats": {
