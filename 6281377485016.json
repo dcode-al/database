@@ -1547,6 +1547,32 @@
       "uang": 10000,
       "lastclaim": 1738389115982,
       "lastrampok": 1738389115982
+    },
+    "6285850162546@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "cf566d7ba434dbcb7b462c1ccbd23d12",
+      "nick": "AH STORE",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738393580878,
+      "lastrampok": 1738393580878
+    },
+    "6285137386495@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f4354c84dc564e569a4a9567e2c082fe",
+      "nick": ".",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738394015896,
+      "lastrampok": 1738394015896
     }
   },
   "chats": {
