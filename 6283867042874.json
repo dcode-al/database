@@ -4,22 +4,35 @@
   "game": {},
   "others": {},
   "users": {
-    "6281529780498@s.whatsapp.net": {
+    "6282186546139@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "bc5c48cdfa74589abb1a7fa9ed147f0d",
-      "nick": "Amar Muhammad",
+      "serialNumber": "6f5b9fc39c3bde043891e236206c59c2",
+      "nick": "halo banggg",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738337496963,
-      "lastrampok": 1738337496963
+      "lastclaim": 1738398713485,
+      "lastrampok": 1738398713485
+    },
+    "6287713642545@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "75192716cf647de88d21780c0a97a748",
+      "nick": "baddz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738398757081,
+      "lastrampok": 1738398757081
     }
   },
   "chats": {
-    "6281529780498@s.whatsapp.net": {
+    "6282186546139@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -37,7 +50,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6283829232356@s.whatsapp.net": {
+    "6287713642545@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -57,7 +70,7 @@
     }
   },
   "settings": {
-    "6281529780498@s.whatsapp.net": {
+    "6282186546139@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -78,7 +91,7 @@
       },
       "about": {
         "bot": {
-          "nick": "Amar Muhammad",
+          "nick": "halo banggg",
           "alias": "Yaemiko MD"
         },
         "owner": {
