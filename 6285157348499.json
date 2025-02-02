@@ -258,7 +258,7 @@
       "nick": "M",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738408315865,
       "lastrampok": 1738408315865
@@ -505,7 +505,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 28,
       "uang": 10000,
       "lastclaim": 1738412507108,
       "lastrampok": 1738412507108
@@ -1003,6 +1003,45 @@
       "uang": 10000,
       "lastclaim": 1738459467599,
       "lastrampok": 1738459467599
+    },
+    "6289608016270@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f370858af18592d6c48170113bf99d01",
+      "nick": "🦝",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738463691819,
+      "lastrampok": 1738463691819
+    },
+    "6281572091438@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0c0efff162af507a5640d06e1282c5f5",
+      "nick": "anggita wilandria",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738463847411,
+      "lastrampok": 1738463847411
+    },
+    "6281362861212@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "dc4b267fbe6444c71796583ea6dcbd6d",
+      "nick": "cipaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738464699223,
+      "lastrampok": 1738464699223
     }
   },
   "chats": {
