@@ -960,7 +960,7 @@
       "nick": "woyyyyyyy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 98,
       "uang": 10000,
       "lastclaim": 1738458326026,
       "lastrampok": 1738458326026
@@ -990,6 +990,19 @@
       "uang": 10000,
       "lastclaim": 1738458417305,
       "lastrampok": 1738458417305
+    },
+    "6282141310076@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4f264d82909ef15ec9cafcf7fd600aeb",
+      "nick": "payy .",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738459467599,
+      "lastrampok": 1738459467599
     }
   },
   "chats": {
