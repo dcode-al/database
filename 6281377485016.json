@@ -1465,7 +1465,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738363650591,
       "lastrampok": 1738363650591
@@ -1755,6 +1755,45 @@
       "uang": 10000,
       "lastclaim": 1738421974242,
       "lastrampok": 1738421974242
+    },
+    "6283139058008@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c7c02e8af4e67632271dd0047a152ef0",
+      "nick": "Jomloo",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738451921940,
+      "lastrampok": 1738451921940
+    },
+    "6285536813787@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a7afa7e4c85ad10672cd46201da5ae77",
+      "nick": "Rans🤩",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738454728237,
+      "lastrampok": 1738454728237
+    },
+    "6283849580394@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "1703ee5c80b321c9a9a0ab73a68ba9a2",
+      "nick": "keya soker",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738455013295,
+      "lastrampok": 1738455013295
     }
   },
   "chats": {
@@ -2227,6 +2266,24 @@
       "mute": false
     },
     "6281342039981@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285536813787@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
