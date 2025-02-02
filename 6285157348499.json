@@ -258,7 +258,7 @@
       "nick": "M",
       "premium": false,
       "totalLimit": 0,
-      "limit": 29,
+      "limit": 28,
       "uang": 10000,
       "lastclaim": 1738408315865,
       "lastrampok": 1738408315865
@@ -1042,6 +1042,32 @@
       "uang": 10000,
       "lastclaim": 1738464699223,
       "lastrampok": 1738464699223
+    },
+    "6282170749659@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b4f86a542ea9f3d34aeb921ef3a247dc",
+      "nick": "Zikkc'LOLI",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738466559634,
+      "lastrampok": 1738466559634
+    },
+    "6287868456728@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2beb990fcb886abe9b4b6df6319e310a",
+      "nick": "msal",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738467374632,
+      "lastrampok": 1738467374632
     }
   },
   "chats": {
