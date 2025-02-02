@@ -1240,7 +1240,7 @@
       "nick": "𝚃𝚞𝚊𝚗𝚟𝚒𝚗𝚗 Đ 𝙼𝚊𝚐𝚗𝚞§",
       "premium": false,
       "totalLimit": 0,
-      "limit": 28,
+      "limit": 26,
       "uang": 10000,
       "lastclaim": 1738383408041,
       "lastrampok": 1738383408041
@@ -1512,6 +1512,44 @@
       "uang": 10000,
       "lastclaim": 1738479828132,
       "lastrampok": 1738479828132
+    },
+    "120363306726670201@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "67c0ede38dcdf397b2490209fc85adf7",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738484575825,
+      "lastrampok": 1738484575825
+    },
+    "62895331253503@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "106298a0347b1bed8efbe5042790f90a",
+      "nick": "Hafiz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738486659254,
+      "lastrampok": 1738486659254
+    },
+    "6281953112033@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9d47edc767af2e2ce5ce01a2999372fe",
+      "nick": "Shop Bot",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738487908231,
+      "lastrampok": 1738487908231
     }
   },
   "chats": {
@@ -2848,6 +2886,42 @@
       "mute": false
     },
     "120363306209734832@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6282110426963@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363306726670201@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
