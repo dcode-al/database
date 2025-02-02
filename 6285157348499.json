@@ -129,7 +129,7 @@
       "nick": "silfiernaoliviaa",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738406988036,
       "lastrampok": 1738406988036
@@ -830,7 +830,7 @@
       "nick": "Alif",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738422202111,
       "lastrampok": 1738422202111
@@ -912,6 +912,84 @@
       "uang": 10000,
       "lastclaim": 1738429015093,
       "lastrampok": 1738429015093
+    },
+    "6285758955859@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a5a15db489ff1068e38b670e396eb84f",
+      "nick": "z",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738456481760,
+      "lastrampok": 1738456481760
+    },
+    "6283842634614@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a555db406d0b23378a1274e6e9e35701",
+      "nick": "NataliSigma🤫🧏🏻‍♂️",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738456809927,
+      "lastrampok": 1738456809927
+    },
+    "6289602899915@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9c0fb7529d7ff041d0a56c5ab044098a",
+      "nick": "not human",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738457025013,
+      "lastrampok": 1738457025013
+    },
+    "628812247415@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e894080099639f5d46baa2a6731a682d",
+      "nick": "woyyyyyyy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738458326026,
+      "lastrampok": 1738458326026
+    },
+    "6283159354863@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f4a329289644381f1a3ec9a4df896ff0",
+      "nick": "-fo lily",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738458405780,
+      "lastrampok": 1738458405780
+    },
+    "6282245224083@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "dff11be81fcc2d436c9b2dbf4bd9d79f",
+      "nick": ".",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738458417305,
+      "lastrampok": 1738458417305
     }
   },
   "chats": {
