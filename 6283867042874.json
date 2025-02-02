@@ -4,176 +4,22 @@
   "game": {},
   "others": {},
   "users": {
-    "6283865369657@s.whatsapp.net": {
+    "6281529780498@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "a5b1ae72c0ab8a3ed709e07dbd792260",
-      "nick": "+62 838-6536-9657",
+      "serialNumber": "bc5c48cdfa74589abb1a7fa9ed147f0d",
+      "nick": "Amar Muhammad",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738252603683,
-      "lastrampok": 1738252603683
-    },
-    "6283150319350@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "20325d8ce44b571bfdf021ac4af776f6",
-      "nick": "E💤",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 26,
-      "uang": 10000,
-      "lastclaim": 1738252780610,
-      "lastrampok": 1738252780610
-    },
-    "6282286087818@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "28898a560ed716453261bdd518ff49eb",
-      "nick": "ARAA STORE",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738263834296,
-      "lastrampok": 1738263834296
-    },
-    "6285880072026@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "71391b499b8a1d63c22e7a8de3e8fb0f",
-      "nick": "REIII STR",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738278863860,
-      "lastrampok": 1738278863860
-    },
-    "6283136921614@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "013d36dcf140c9ebf1e1b5785065fb60",
-      "nick": "Dizboys",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738280920388,
-      "lastrampok": 1738280920388
-    },
-    "6283196238983@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "89cdec81a2417c3aa230ca71592e7d86",
-      "nick": "wall? are you okey?",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738407841470,
-      "lastrampok": 1738407841470
-    },
-    "6285703604116@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "515d597bb104621a9074b2d4a6a42963",
-      "nick": "LEXZY MARKET",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738407876976,
-      "lastrampok": 1738407876976
-    },
-    "6285609691923@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "268a931a1cbb699808a6e6c1a1c38705",
-      "nick": "Ahmyth",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738413962220,
-      "lastrampok": 1738413962220
-    },
-    "120363299719848392@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "ad985d79e84cd76d9be08b396713499e",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738420009300,
-      "lastrampok": 1738420009300
-    },
-    "6287786072259@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "7a69b196388796abb98d2df05d8eddd9",
-      "nick": "LOXX STORE",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738421689534,
-      "lastrampok": 1738421689534
-    },
-    "6285246516090@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "3b5cbeb40785f04364132524a9c39e3a",
-      "nick": "Zee",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 100,
-      "uang": 10000,
-      "lastclaim": 1738446602484,
-      "lastrampok": 1738446602484
-    },
-    "62895418378663@s.whatsapp.net": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "7dccec8c0db8c2d04fbe29e9b1ba7c04",
-      "nick": "kai store",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 100,
-      "uang": 10000,
-      "lastclaim": 1738471614467,
-      "lastrampok": 1738471614467
-    },
-    "120363306209734832@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "d6f265f0a7bf315e200a43ac8306bf14",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 100,
-      "uang": 10000,
-      "lastclaim": 1738473034600,
-      "lastrampok": 1738473034600
+      "lastclaim": 1738337496963,
+      "lastrampok": 1738337496963
     }
   },
   "chats": {
-    "6283865369657@s.whatsapp.net": {
+    "6281529780498@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -191,79 +37,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363372587529886@g.us": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363287511663499@g.us": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363299719848392@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363369298879695@g.us": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363306209734832@newsletter": {
+    "6283829232356@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -283,7 +57,7 @@
     }
   },
   "settings": {
-    "6283865369657@s.whatsapp.net": {
+    "6281529780498@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -304,7 +78,7 @@
       },
       "about": {
         "bot": {
-          "nick": "+62 838-6536-9657",
+          "nick": "Amar Muhammad",
           "alias": "Yaemiko MD"
         },
         "owner": {
