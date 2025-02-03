@@ -4,22 +4,22 @@
   "game": {},
   "others": {},
   "users": {
-    "6281529780498@s.whatsapp.net": {
+    "6285138202180@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "bc5c48cdfa74589abb1a7fa9ed147f0d",
-      "nick": "Amar Muhammad",
+      "serialNumber": "7cbc978df238c3f0c3730a67488b8725",
+      "nick": "+62 851-3820-2180",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738337496963,
-      "lastrampok": 1738337496963
+      "lastclaim": 1738472055240,
+      "lastrampok": 1738472055240
     }
   },
   "chats": {
-    "6281529780498@s.whatsapp.net": {
+    "6285138202180@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -37,7 +37,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6283829232356@s.whatsapp.net": {
+    "6287713642545@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -57,7 +57,7 @@
     }
   },
   "settings": {
-    "6281529780498@s.whatsapp.net": {
+    "6285138202180@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -78,7 +78,7 @@
       },
       "about": {
         "bot": {
-          "nick": "Amar Muhammad",
+          "nick": "+62 851-3820-2180",
           "alias": "Yaemiko MD"
         },
         "owner": {
