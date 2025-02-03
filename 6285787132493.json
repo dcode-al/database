@@ -2431,6 +2431,32 @@
       "uang": 10000,
       "lastclaim": 1738551992159,
       "lastrampok": 1738551992159
+    },
+    "6289521024218@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "56bfafa6928dd9f89e7c84bc2b05ac6d",
+      "nick": "fenfen eleven",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738554707216,
+      "lastrampok": 1738554707216
+    },
+    "6285810171960@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ba1f908a040acf00e378d6de57f889b1",
+      "nick": "Dika",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738555454699,
+      "lastrampok": 1738555454699
     }
   },
   "chats": {
