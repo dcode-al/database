@@ -1,0 +1,104 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "6281338208891@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "38b13e06517de210ee1595976331e72a",
+      "nick": "+62 813-3820-8891",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738538903478,
+      "lastrampok": 1738538903478
+    },
+    "6283160207157@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c8adff5498146fad6510821a8f3785ce",
+      "nick": "ya",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738539011378,
+      "lastrampok": 1738539011378
+    }
+  },
+  "chats": {
+    "6281338208891@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6283160207157@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    }
+  },
+  "settings": {
+    "6281338208891@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "Dcode-al"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 813-3820-8891",
+          "alias": "Yaemiko MD"
+        },
+        "owner": {
+          "nick": "+62 831-6027-157",
+          "alias": "628316027157"
+        }
+      }
+    }
+  }
+}
