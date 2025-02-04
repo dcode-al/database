@@ -4,72 +4,98 @@
   "game": {},
   "others": {},
   "users": {
-    "6282272318907@s.whatsapp.net": {
+    "6283194597538@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "c5d61c5312b437b01c7cfc10cbf39203",
-      "nick": "+62 822-7231-8907",
+      "serialNumber": "18826f969241179020e8acd85cec8508",
+      "nick": "+62 831-9459-7538",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738427641664,
-      "lastrampok": 1738427641664
+      "lastclaim": 1738510076881,
+      "lastrampok": 1738510076881
     },
-    "6281350448640@s.whatsapp.net": {
+    "6282241261255@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "0e0eb388bf996d1212245e86a1d3ae5e",
-      "nick": "?",
+      "serialNumber": "db493b68689072f1f80d6003035dd770",
+      "nick": "𝐰𝐚𝐧𝐧 𝐦𝐨𝐝𝐞 𝐚𝐥𝐢𝐦",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738427757878,
-      "lastrampok": 1738427757878
+      "lastclaim": 1738550991292,
+      "lastrampok": 1738550991292
     },
-    "120363306209734832@newsletter": {
+    "6285847547812@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "a9e525c1707e25549793d80a8ea0beed",
+      "serialNumber": "d5b91b764b5839b9a17b1862f7b4034c",
+      "nick": "dap",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738473034526,
-      "lastrampok": 1738473034526
+      "lastclaim": 1738558667360,
+      "lastrampok": 1738558667360
     },
     "120363299719848392@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "16464470e9642f5a1897ce9c243b75a1",
+      "serialNumber": "d71c849cc82d188ec02b04548e7e0b83",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738473062290,
-      "lastrampok": 1738473062291
+      "lastclaim": 1738565878226,
+      "lastrampok": 1738565878226
     },
-    "6281261425767@s.whatsapp.net": {
+    "120363306209734832@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "b28f26c34e889d9826d144b0c23ebbe2",
-      "nick": "~",
+      "serialNumber": "c56b36c4bb7859a01a832872eae446d5",
       "premium": false,
       "totalLimit": 0,
       "limit": 30,
       "uang": 10000,
-      "lastclaim": 1738590769651,
-      "lastrampok": 1738590769651
+      "lastclaim": 1738565895427,
+      "lastrampok": 1738565895427
+    },
+    "6289526850835@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "54e96862849d250e0be6537981bc166e",
+      "nick": "𝐖𝐚𝐧𝐧𝐗𝐃𝐞𝐯",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738577389182,
+      "lastrampok": 1738577389182
+    },
+    "6288277361289@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2d1f5282a0652c3cf30b8d76d4ad1217",
+      "nick": "ddee yolaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738596366909,
+      "lastrampok": 1738596366909
     }
   },
   "chats": {
-    "6282272318907@s.whatsapp.net": {
+    "6283194597538@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -87,7 +113,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6281350448640@s.whatsapp.net": {
+    "6289526850835@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -105,7 +131,43 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363306209734832@newsletter": {
+    "6285847547812@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285813708397@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6282241261255@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -141,7 +203,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6281261425767@s.whatsapp.net": {
+    "120363306209734832@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -159,7 +221,61 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363335552938730@g.us": {
+    "6283877914198@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6288277361289@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6289513525142@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "639610441569@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -179,7 +295,7 @@
     }
   },
   "settings": {
-    "6282272318907@s.whatsapp.net": {
+    "6283194597538@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -200,7 +316,7 @@
       },
       "about": {
         "bot": {
-          "nick": "+62 822-7231-8907",
+          "nick": "+62 831-9459-7538",
           "alias": "Yaemiko MD"
         },
         "owner": {
