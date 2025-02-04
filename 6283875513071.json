@@ -1,0 +1,174 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "6283870824344@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "1aeb73b01ab8d23aa3fbd98f24e6daaf",
+      "nick": "XDev_Bot",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738342952670,
+      "lastrampok": 1738342952670
+    },
+    "6282116590487@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7fceb8e01b6d2e5a7001645276ebca56",
+      "nick": "??",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738343063196,
+      "lastrampok": 1738343063196
+    },
+    "6285693589703@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4d686e27c10d78dab672f405ef4d02ae",
+      "nick": "idk",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738343240506,
+      "lastrampok": 1738343240506
+    },
+    "6285198153294@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b1a1be5aade32bd8ca5f653b1ac60021",
+      "nick": "sann",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738344708689,
+      "lastrampok": 1738344708689
+    },
+    "6285167386242@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "324c60d6ba02cae42529e3ce27282579",
+      "nick": "XDev_Bot",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738372710974,
+      "lastrampok": 1738372710974
+    },
+    "6285191505651@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "580c48365d443c8ce3de8fc2c2a5d4e4",
+      "nick": "𝐍𝐚𝐧𝐚𝐒𝐭𝐨𝐫𝐞 𝐈𝐃",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738372923857,
+      "lastrampok": 1738372923857
+    }
+  },
+  "chats": {
+    "120363372056431064@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    },
+    "120363393667900284@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    },
+    "120363380952521850@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    }
+  },
+  "settings": {
+    "6283870824344@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "𝙰𝚐𝚎𝚜"
+      },
+      "about": {
+        "bot": {
+          "nick": "XDev_Bot",
+          "alias": "XDev_Bot"
+        },
+        "owner": {
+          "nick": "+62 838-7551-3071",
+          "alias": "6283875513071"
+        }
+      }
+    }
+  }
+}
