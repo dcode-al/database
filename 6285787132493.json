@@ -1289,6 +1289,19 @@
       "uang": 10000,
       "lastclaim": 1738710724314,
       "lastrampok": 1738710724314
+    },
+    "6283102907697@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2e03877ecd03e42431e9534b2013f176",
+      "nick": "SUMBER GMAIL bot",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738711370583,
+      "lastrampok": 1738711370583
     }
   },
   "chats": {
