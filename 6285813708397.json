@@ -3964,6 +3964,45 @@
       "uang": 10000,
       "lastclaim": 1738685500600,
       "lastrampok": 1738685500600
+    },
+    "6285769620040@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d5c7b72492959ac5f508e1e48dde9278",
+      "nick": "r",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738691004477,
+      "lastrampok": 1738691004477
+    },
+    "6287788962837@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "22f308a7ed12846ae620a21537e9e47c",
+      "nick": "jojook imut kyut🎀",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738691860711,
+      "lastrampok": 1738691860711
+    },
+    "6283173431032@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8fef1f10858540e073f8633cfd391dd4",
+      "nick": "RainzXy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738692166548,
+      "lastrampok": 1738692166548
     }
   },
   "chats": {
@@ -4292,6 +4331,24 @@
       "mute": false
     },
     "6283871940937@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285769620040@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
