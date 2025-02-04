@@ -1198,6 +1198,32 @@
       "uang": 10000,
       "lastclaim": 1738696776158,
       "lastrampok": 1738696776158
+    },
+    "6282121964685@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a4c28209247b801627a434129c68447b",
+      "nick": "..p",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738700714966,
+      "lastrampok": 1738700714966
+    },
+    "6281775235571@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "6f5fcb4775a8911bcd44bbf91eb78c42",
+      "nick": "KlasStore_Id",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738701929916,
+      "lastrampok": 1738701929916
     }
   },
   "chats": {
