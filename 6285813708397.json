@@ -1334,7 +1334,7 @@
       "nick": "Ikiyyz",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 27,
       "uang": 10000,
       "lastclaim": 1738566399432,
       "lastrampok": 1738566399432
@@ -2586,6 +2586,58 @@
       "uang": 10000,
       "lastclaim": 1738649370392,
       "lastrampok": 1738649370392
+    },
+    "6282341336846@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "efb3df58d5a1a065c43f3c4a2e59ba54",
+      "nick": "iciboss keyaa sop mie ayam tahu bulat uni",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738651555264,
+      "lastrampok": 1738651555264
+    },
+    "6285169938655@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "66de26189b9f593dadeed7a0b7b334d1",
+      "nick": "𝐑af𝐳 𖤐",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 97,
+      "uang": 10000,
+      "lastclaim": 1738652741974,
+      "lastrampok": 1738652741974
+    },
+    "6289512516067@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b18f61b1c1b7c927db3ec8ec3d558dba",
+      "nick": "-jerzzyy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738652900546,
+      "lastrampok": 1738652900546
+    },
+    "628998003494@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ba51ae027e037716602fe495383a2f0d",
+      "nick": "dapzz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738653251767,
+      "lastrampok": 1738653251767
     }
   },
   "chats": {
