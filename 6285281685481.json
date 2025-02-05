@@ -340,6 +340,19 @@
       "uang": 10000,
       "lastclaim": 1738728648871,
       "lastrampok": 1738728648871
+    },
+    "6281913360512@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8419713393b502741aa21609e9d1d9a8",
+      "nick": "wildan ihzaa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738729305228,
+      "lastrampok": 1738729305228
     }
   },
   "chats": {
