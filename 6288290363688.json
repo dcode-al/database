@@ -635,6 +635,32 @@
       "uang": 10000,
       "lastclaim": 1738743706184,
       "lastrampok": 1738743706184
+    },
+    "6285754689188@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "dbcafbc51e4c0e47f08e68a2e5625e7d",
+      "nick": "Yakuza",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738751235726,
+      "lastrampok": 1738751235726
+    },
+    "26876839762@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c70bcfc8367b33cc8ccdf9ebc7066e08",
+      "nick": "Yellymifav SD",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738751660287,
+      "lastrampok": 1738751660287
     }
   },
   "chats": {
