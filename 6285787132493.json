@@ -1626,6 +1626,19 @@
       "uang": 10000,
       "lastclaim": 1738738896241,
       "lastrampok": 1738738896241
+    },
+    "6285697682091@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "681fdf92153e24a4d9d877d366d7cbe0",
+      "nick": "Simba/Titan",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738739270910,
+      "lastrampok": 1738739270910
     }
   },
   "chats": {
