@@ -51,7 +51,7 @@
       "nick": "Kenzieeee",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738671196712,
       "lastrampok": 1738671196712
@@ -77,7 +77,7 @@
       "nick": "arip nak meletup 😨😹",
       "premium": false,
       "totalLimit": 0,
-      "limit": 27,
+      "limit": 26,
       "uang": 10000,
       "lastclaim": 1738671334891,
       "lastrampok": 1738671334891
@@ -1427,7 +1427,7 @@
       "nick": "fufufafa",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 98,
       "uang": 10000,
       "lastclaim": 1738722222955,
       "lastrampok": 1738722222955
@@ -1639,6 +1639,19 @@
       "uang": 10000,
       "lastclaim": 1738739270910,
       "lastrampok": 1738739270910
+    },
+    "6289517222245@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b662c830e9d306b7a35ff37461a4f1d9",
+      "nick": ".",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738741871065,
+      "lastrampok": 1738741871065
     }
   },
   "chats": {
