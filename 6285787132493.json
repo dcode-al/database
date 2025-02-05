@@ -77,7 +77,7 @@
       "nick": "arip nak meletup 😨😹",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 27,
       "uang": 10000,
       "lastclaim": 1738671334891,
       "lastrampok": 1738671334891
@@ -1574,6 +1574,19 @@
       "uang": 10000,
       "lastclaim": 1738734080324,
       "lastrampok": 1738734080324
+    },
+    "6283849023094@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0f1b251a5ba402f75151cd896181eeb3",
+      "nick": "Hamdih",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738734314544,
+      "lastrampok": 1738734314544
     }
   },
   "chats": {
