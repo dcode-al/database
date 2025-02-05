@@ -4,203 +4,95 @@
   "game": {},
   "others": {},
   "users": {
-    "62895327698572@s.whatsapp.net": {
+    "6281460139457@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "cda147efe7a54f7f033c238c5754e9cb",
-      "nick": "+62 895-3276-98572",
+      "serialNumber": "7210e304050bf7c3cbc40c5b5db64563",
+      "nick": "+62 814-6013-9457",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 98,
       "uang": 10000,
-      "lastclaim": 1738661175256,
-      "lastrampok": 1738661175256
+      "lastclaim": 1738730408565,
+      "lastrampok": 1738730408565
     },
-    "6281243219604@s.whatsapp.net": {
+    "120363262469184148@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "8f424ede4f95f033a58e3d9527940f28",
-      "nick": "+62 812-4321-9604",
+      "serialNumber": "ce9e86737c9b35a3917ccf1b66feed47",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738661198631,
-      "lastrampok": 1738661198631
+      "lastclaim": 1738730437511,
+      "lastrampok": 1738730437511
     },
-    "120363386153515033@newsletter": {
+    "120363197056894533@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "b5ae8b5968cd03c2a74a1a97e7088a15",
+      "serialNumber": "b90311cd96b4816b6fe8f0a6cdda067b",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738661309921,
-      "lastrampok": 1738661309921
+      "lastclaim": 1738730639740,
+      "lastrampok": 1738730639740
     },
-    "120363367787013309@newsletter": {
+    "120363331598389119@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "00358fb9ad85107139e7e8f553b08640",
+      "serialNumber": "ad9b7bdc4a4478cf835482f1bbf37e15",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738662019430,
-      "lastrampok": 1738662019430
-    },
-    "120363362233410904@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "3d42e66ed7ae46caec30e45beba9dbd7",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738662108215,
-      "lastrampok": 1738662108215
-    },
-    "120363333973020520@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "8994367102bf5f420a80a151ff71f150",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738662167032,
-      "lastrampok": 1738662167032
-    },
-    "120363336758292547@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "d05d2c1fdf8d5e359740bba5f06540b4",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738662510648,
-      "lastrampok": 1738662510648
-    },
-    "120363381288267213@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "16b2335b4d1c133d856296831181dbd7",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738662614955,
-      "lastrampok": 1738662614955
-    },
-    "120363346887556404@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "b48efe556610b5089165d476e4f5ba38",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738663237545,
-      "lastrampok": 1738663237545
-    },
-    "120363351064505930@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "f6425d397d6c16f7831cfcd995380967",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738664941145,
-      "lastrampok": 1738664941145
-    },
-    "120363201469068789@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "0d5529310ccf8bc366561aceb6993396",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738665509606,
-      "lastrampok": 1738665509606
-    },
-    "120363333625617418@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "aec7aca5ac71587aa833c59e81b03b5a",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738665787821,
-      "lastrampok": 1738665787821
-    },
-    "120363322606603161@newsletter": {
-      "vip": false,
-      "badword": 0,
-      "title": "",
-      "serialNumber": "c70f1ebd2f26659b0f786cc2ba8ebf86",
-      "premium": false,
-      "totalLimit": 0,
-      "limit": 30,
-      "uang": 10000,
-      "lastclaim": 1738667833687,
-      "lastrampok": 1738667833687
+      "lastclaim": 1738730985756,
+      "lastrampok": 1738730985756
     },
     "120363299719848392@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "e2b2bfe0037ba265fc096da1c4d71d6d",
+      "serialNumber": "447c4a0c9ff980f9da16447c41e0b530",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738670175211,
-      "lastrampok": 1738670175211
+      "lastclaim": 1738731143981,
+      "lastrampok": 1738731143981
     },
-    "120363344753235754@newsletter": {
+    "6282133197161@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "0c60bb8cd73717e887712348e4225c78",
+      "serialNumber": "33eee683d0a264ce3301d4393917174b",
+      "nick": "👾",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738675370015,
-      "lastrampok": 1738675370015
+      "lastclaim": 1738731241311,
+      "lastrampok": 1738731241311
     },
-    "120363362254469246@newsletter": {
+    "120363379193367300@newsletter": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "3891785da9b6a013e601c9b3cda7efa6",
+      "serialNumber": "eebb0a1223f7a935e3f6a5400fe02508",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738678563181,
-      "lastrampok": 1738678563181
+      "lastclaim": 1738731293120,
+      "lastrampok": 1738731293120
     }
   },
   "chats": {
-    "62895327698572@s.whatsapp.net": {
+    "6281460139457@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -218,7 +110,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "6281243219604@s.whatsapp.net": {
+    "120363262469184148@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -236,7 +128,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363386153515033@newsletter": {
+    "120363197056894533@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -254,169 +146,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363367787013309@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363362233410904@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363333973020520@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363336758292547@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363381288267213@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363346887556404@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363351064505930@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363201469068789@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363333625617418@newsletter": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antiviewonce": false,
-      "antibot": false,
-      "antispam": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antisticker": false,
-      "anticontact": false,
-      "antilocation": false,
-      "antidocument": false,
-      "antilink": false,
-      "antilinkgc": false,
-      "mute": false
-    },
-    "120363322606603161@newsletter": {
+    "120363331598389119@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -452,7 +182,7 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363344753235754@newsletter": {
+    "120363374202764973@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -470,7 +200,25 @@
       "antilinkgc": false,
       "mute": false
     },
-    "120363362254469246@newsletter": {
+    "120363379193367300@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6288287789447@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -490,7 +238,7 @@
     }
   },
   "settings": {
-    "62895327698572@s.whatsapp.net": {
+    "6281460139457@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -511,7 +259,7 @@
       },
       "about": {
         "bot": {
-          "nick": "+62 895-3276-98572",
+          "nick": "+62 814-6013-9457",
           "alias": "Yaemiko MD"
         },
         "owner": {
