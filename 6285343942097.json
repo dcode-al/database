@@ -352,6 +352,19 @@
       "uang": 10000,
       "lastclaim": 1738733336579,
       "lastrampok": 1738733336579
+    },
+    "6285375096355@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a2888650b361b7750a65cffe6387028d",
+      "nick": "사트리아 21🦊",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738733446492,
+      "lastrampok": 1738733446492
     }
   },
   "chats": {
@@ -626,6 +639,24 @@
       "mute": false
     },
     "120363161463586481@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363331248186128@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
