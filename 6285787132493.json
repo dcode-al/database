@@ -51,7 +51,7 @@
       "nick": "Kenzieeee",
       "premium": false,
       "totalLimit": 0,
-      "limit": 29,
+      "limit": 26,
       "uang": 10000,
       "lastclaim": 1738671196712,
       "lastrampok": 1738671196712
@@ -531,7 +531,7 @@
       "nick": "Vike? Yes sir!!",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 28,
       "uang": 10000,
       "lastclaim": 1738675956671,
       "lastrampok": 1738675956671
@@ -1816,7 +1816,7 @@
       "nick": ".",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 99,
       "uang": 10000,
       "lastclaim": 1738751600403,
       "lastrampok": 1738751600403
@@ -1898,6 +1898,71 @@
       "uang": 10000,
       "lastclaim": 1738753857279,
       "lastrampok": 1738753857279
+    },
+    "6283869636803@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2d1bd641d073218301f3f2563929bb93",
+      "nick": "MC SANZZ STORE",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738755366825,
+      "lastrampok": 1738755366825
+    },
+    "6282325021729@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "81244e29d3bc68623600ffbfa0731364",
+      "nick": "チゼ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738755380343,
+      "lastrampok": 1738755380343
+    },
+    "6282254833719@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "92080abd190ab3783e52bc53af58a6a7",
+      "nick": "~ST",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738756414023,
+      "lastrampok": 1738756414023
+    },
+    "6285211612776@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "72c28f4c19addeecb1cad627153f5d08",
+      "nick": "febgt/kudesign.gt",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738756623388,
+      "lastrampok": 1738756623388
+    },
+    "6285733310518@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "cd91e77b5a0844952099cb66dff6284e",
+      "nick": ".",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738758127579,
+      "lastrampok": 1738758127579
     }
   },
   "chats": {
@@ -2028,6 +2093,24 @@
       "mute": false
     },
     "120363306209734832@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285733310518@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
