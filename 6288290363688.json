@@ -557,6 +557,19 @@
       "uang": 10000,
       "lastclaim": 1738732500062,
       "lastrampok": 1738732500062
+    },
+    "258852239763@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e85bf72cee0795115d214745876c4bc1",
+      "nick": "Vasco Chilunga",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738737862689,
+      "lastrampok": 1738737862689
     }
   },
   "chats": {
