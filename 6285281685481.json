@@ -1197,6 +1197,19 @@
       "uang": 10000,
       "lastclaim": 1738747742837,
       "lastrampok": 1738747742837
+    },
+    "6285119369751@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "bc1f0dd7231a26e318a161645f9adf75",
+      "nick": "cipung",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738748170931,
+      "lastrampok": 1738748170931
     }
   },
   "chats": {
