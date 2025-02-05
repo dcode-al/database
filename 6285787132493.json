@@ -1483,6 +1483,32 @@
       "uang": 10000,
       "lastclaim": 1738725599211,
       "lastrampok": 1738725599211
+    },
+    "6287861250252@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c8b246eb25b0f65499d0adc480cfc1da",
+      "nick": "jpm soft spoken",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738728117323,
+      "lastrampok": 1738728117323
+    },
+    "6285774815416@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4820642eb9077c8d4e9cd1a46d4f19b8",
+      "nick": "TAMA UNCHEK",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738728770701,
+      "lastrampok": 1738728770701
     }
   },
   "chats": {
