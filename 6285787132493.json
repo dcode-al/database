@@ -1989,6 +1989,45 @@
       "uang": 10000,
       "lastclaim": 1738760354445,
       "lastrampok": 1738760354445
+    },
+    "6287823843057@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "015df817a6bb15732cd4c049ec85e25b",
+      "nick": "bot shin gtps",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738764435083,
+      "lastrampok": 1738764435083
+    },
+    "6282127205733@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "1e6d3fc2256d32cd55ab2e2c0700eefd",
+      "nick": "vin",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738764466052,
+      "lastrampok": 1738764466052
+    },
+    "62895366342277@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "6669db92ce2fe6dedf6dbb10cbc75b33",
+      "nick": "𝐹𝑖𝑛ᶻ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738764924436,
+      "lastrampok": 1738764924436
     }
   },
   "chats": {
@@ -2137,6 +2176,24 @@
       "mute": false
     },
     "6285733310518@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285787132493@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
