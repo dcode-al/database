@@ -77,7 +77,7 @@
       "nick": "arip nak meletup 😨😹",
       "premium": false,
       "totalLimit": 0,
-      "limit": 26,
+      "limit": 25,
       "uang": 10000,
       "lastclaim": 1738671334891,
       "lastrampok": 1738671334891
@@ -1652,6 +1652,58 @@
       "uang": 10000,
       "lastclaim": 1738741871065,
       "lastrampok": 1738741871065
+    },
+    "6283897304517@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0789506511af52c5de52c263e31ced4b",
+      "nick": "D-For store",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738742609690,
+      "lastrampok": 1738742609690
+    },
+    "6282140556128@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0a42595d7744403d5902cc0e7b4e653a",
+      "nick": "Kriss",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738742996355,
+      "lastrampok": 1738742996355
+    },
+    "6289523384154@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4278c31de608077141dfeedb90934bfd",
+      "nick": "Rip_Boy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738743084418,
+      "lastrampok": 1738743084418
+    },
+    "62881025962523@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "75ae2976b0526571e18896855382b98e",
+      "nick": "Pian",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738743705506,
+      "lastrampok": 1738743705506
     }
   },
   "chats": {
