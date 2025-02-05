@@ -583,6 +583,45 @@
       "uang": 10000,
       "lastclaim": 1738741021405,
       "lastrampok": 1738741021405
+    },
+    "6289508636326@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "4854c9878c85177a51982c5eaf8f042f",
+      "nick": "DIKZZ SOHP REAL OWN OM KURZ CRUEL LAMPUNG",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738741476139,
+      "lastrampok": 1738741476139
+    },
+    "6281273227052@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "12e1e07fe25e080f49703451f129f010",
+      "nick": "Lisa Store",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738741490374,
+      "lastrampok": 1738741490374
+    },
+    "628871780654@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "1bbc9944fd227614a0f7b18178b5045e",
+      "nick": "diki",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738741677031,
+      "lastrampok": 1738741677031
     }
   },
   "chats": {
@@ -681,7 +720,7 @@
       "antiforeignnum": false,
       "antiviewonce": false,
       "antibot": false,
-      "antispam": false,
+      "antispam": true,
       "antimedia": false,
       "antiimage": false,
       "antivideo": false,
@@ -690,7 +729,7 @@
       "anticontact": false,
       "antilocation": false,
       "antidocument": false,
-      "antilink": false,
+      "antilink": true,
       "antilinkgc": false,
       "mute": false
     },
@@ -803,6 +842,24 @@
       "mute": false
     },
     "6283170629475@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363296388785480@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
