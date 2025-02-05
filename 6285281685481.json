@@ -106,6 +106,19 @@
       "uang": 10000,
       "lastclaim": 1738712516686,
       "lastrampok": 1738712516686
+    },
+    "6285723797562@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c0495f7ae54de61b092e24f1218b1bd2",
+      "nick": "Vys",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738723150072,
+      "lastrampok": 1738723150072
     }
   },
   "chats": {
@@ -326,6 +339,24 @@
       "mute": false
     },
     "120363299719848392@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363361075409858@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
