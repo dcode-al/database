@@ -1405,6 +1405,19 @@
       "uang": 10000,
       "lastclaim": 1738718012987,
       "lastrampok": 1738718012987
+    },
+    "6282179287991@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0e00e2eb154c8f1e84612de5ce93491f",
+      "nick": "Miko",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738720254980,
+      "lastrampok": 1738720254980
     }
   },
   "chats": {
