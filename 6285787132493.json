@@ -1548,6 +1548,19 @@
       "uang": 10000,
       "lastclaim": 1738733372863,
       "lastrampok": 1738733372863
+    },
+    "60143419363@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "44ee573a2856752c04e5399f5ef23e7c",
+      "nick": "rayyanrezqi",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738733576825,
+      "lastrampok": 1738733576825
     }
   },
   "chats": {
