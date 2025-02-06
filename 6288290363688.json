@@ -25,7 +25,7 @@
       "nick": "레자",
       "premium": false,
       "totalLimit": 0,
-      "limit": 9999,
+      "limit": 9998,
       "uang": 1000000,
       "lastclaim": 1738639682637,
       "lastrampok": 1738639682637
@@ -696,7 +696,7 @@
       "nick": "din?",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738754233550,
       "lastrampok": 1738754233550
@@ -1011,6 +1011,58 @@
       "uang": 10000,
       "lastclaim": 1738801732119,
       "lastrampok": 1738801732119
+    },
+    "5212218851924@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "76c00e016d0f3d98d119b495c391f045",
+      "nick": "H",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738811430370,
+      "lastrampok": 1738811430370
+    },
+    "27639463022@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "19f33d40d0ba7ba66eba4496f0f2a642",
+      "nick": "👻ProGhoster👻",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738816099666,
+      "lastrampok": 1738816099666
+    },
+    "22540116820@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0c0851a1d4c5a4b7be5404d394d51b1f",
+      "nick": "Sp⚽ Le Brésilien",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738821261084,
+      "lastrampok": 1738821261084
+    },
+    "254792503850@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "11f6c604aa750c91a0ba4870b38c1859",
+      "nick": "Whiterose",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738822448136,
+      "lastrampok": 1738822448136
     }
   },
   "chats": {
