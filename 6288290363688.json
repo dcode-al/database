@@ -998,6 +998,19 @@
       "uang": 10000,
       "lastclaim": 1738801438998,
       "lastrampok": 1738801438998
+    },
+    "50247280988@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "6f731b3e6eea43f1dbbc90fca6367001",
+      "nick": "🇧 🇴 🇹  🇵 🇷 🇮 🇻 🇦 🇩 🇴",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738801732119,
+      "lastrampok": 1738801732119
     }
   },
   "chats": {
@@ -1272,6 +1285,24 @@
       "mute": false
     },
     "50374936404@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "50247280988@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
