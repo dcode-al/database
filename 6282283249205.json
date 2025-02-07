@@ -1460,6 +1460,19 @@
       "uang": 10000000,
       "lastclaim": 1738942408710,
       "lastrampok": 1738942408710
+    },
+    "6285831007545@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "5bb75daebeb89b0628c1e5770b2b3931",
+      "nick": "Danz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738945913684,
+      "lastrampok": 1738945913684
     }
   },
   "chats": {
@@ -2184,6 +2197,24 @@
       "mute": false
     },
     "120363320382006003@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363326109498906@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
