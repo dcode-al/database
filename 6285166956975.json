@@ -1286,6 +1286,19 @@
       "uang": 10000,
       "lastclaim": 1738941948851,
       "lastrampok": 1738941948851
+    },
+    "6287838045245@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "96105fd023f544f77036ca47d651354f",
+      "nick": "Ryo Yamada",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738942023839,
+      "lastrampok": 1738942023839
     }
   },
   "chats": {
