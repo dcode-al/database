@@ -2667,6 +2667,58 @@
       "uang": 10000,
       "lastclaim": 1738942015808,
       "lastrampok": 1738942015808
+    },
+    "6285819411904@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "95a634f421ac15c860a3b7d56b6ae9f6",
+      "nick": "DANZZ Store",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942042794,
+      "lastrampok": 1738942042794
+    },
+    "6288293666468@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "646f0e03d4124d06cefff3a865f2333d",
+      "nick": "Husin Nabil",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942058128,
+      "lastrampok": 1738942058128
+    },
+    "6281393881679@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "69944564c07fdfff38c1c52ab2552d28",
+      "nick": "Dimz",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942087683,
+      "lastrampok": 1738942087683
+    },
+    "6287816442421@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "71ec24adec2b19e09e578cdce849b4b0",
+      "nick": "KING STORE",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942096427,
+      "lastrampok": 1738942096427
     }
   },
   "chats": {
@@ -2783,7 +2835,7 @@
       "antiforeignnum": false,
       "antiviewonce": false,
       "antibot": false,
-      "antispam": false,
+      "antispam": true,
       "antimedia": false,
       "antiimage": false,
       "antivideo": false,
