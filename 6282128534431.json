@@ -2451,6 +2451,57 @@
       "uang": 10000,
       "lastclaim": 1738924166052,
       "lastrampok": 1738924166052
+    },
+    "6287784483878@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "56dca40ce17abde258b129c59a24ebab",
+      "nick": "yaa?",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738924234656,
+      "lastrampok": 1738924234656
+    },
+    "6283895986700@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7627753aab58460ef0c27404b992914e",
+      "nick": "abng kasim",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738924291144,
+      "lastrampok": 1738924291144
+    },
+    "6287766380789@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9b1a2be62afc607512ec890c0fa64ab9",
+      "nick": "👿",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738924338877,
+      "lastrampok": 1738924338877
+    },
+    "120363351064505930@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "66fe68712cd6b32de7c944498105c6c8",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738924349390,
+      "lastrampok": 1738924349390
     }
   },
   "chats": {
@@ -3481,6 +3532,24 @@
       "mute": false
     },
     "120363320113586798@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363351064505930@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
