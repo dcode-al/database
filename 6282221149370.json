@@ -1448,6 +1448,19 @@
       "uang": 10000,
       "lastclaim": 1738933391391,
       "lastrampok": 1738933391391
+    },
+    "6285766981732@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0b8dfb41cf935364cf070a200683aabd",
+      "nick": "~",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738950002471,
+      "lastrampok": 1738950002471
     }
   },
   "chats": {
@@ -2226,6 +2239,24 @@
       "mute": false
     },
     "6281226976647@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285766981732@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
