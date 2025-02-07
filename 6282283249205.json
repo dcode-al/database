@@ -1061,6 +1061,19 @@
       "uang": 10000000,
       "lastclaim": 1738931356250,
       "lastrampok": 1738931356250
+    },
+    "6281362850701@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "78b12b59d0d8890818d206bff57c50ae",
+      "nick": "Lin Ce",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738931651752,
+      "lastrampok": 1738931651752
     }
   },
   "chats": {
