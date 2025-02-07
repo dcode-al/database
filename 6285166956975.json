@@ -1451,7 +1451,7 @@
       "nick": "ejar",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738945200886,
       "lastrampok": 1738945200886
@@ -1494,6 +1494,32 @@
       "uang": 10000,
       "lastclaim": 1738948637227,
       "lastrampok": 1738948637227
+    },
+    "6282278759905@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d42bb8713c347f18d7d82fd28f72441d",
+      "nick": "𝓼𝓪𝓪",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738950748681,
+      "lastrampok": 1738950748681
+    },
+    "62895365392767@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8635f49188f82f1df8017fb5989f8b1a",
+      "nick": "✰𝐅𝐚𝐥𝐳𝐳 🌊",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738952613816,
+      "lastrampok": 1738952613816
     }
   },
   "chats": {
@@ -1840,6 +1866,24 @@
       "mute": false
     },
     "6283122095576@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6285273494887@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
