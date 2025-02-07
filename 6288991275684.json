@@ -946,7 +946,7 @@
       "nick": "p",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738910972623,
       "lastrampok": 1738910972623
@@ -3224,6 +3224,31 @@
       "uang": 10000,
       "lastclaim": 1738948928000,
       "lastrampok": 1738948928000
+    },
+    "120363393147154797@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a2e4f95f0aacf5b5377ded6d54450475",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738953971812,
+      "lastrampok": 1738953971812
+    },
+    "6287739107372@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "753a2962879366f610cf912b4c0e1a98",
+      "nick": "Jãky àñõmãlì",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738954131284,
+      "lastrampok": 1738954131284
     }
   },
   "chats": {
@@ -3552,6 +3577,24 @@
       "mute": false
     },
     "6283199098936@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363393147154797@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
