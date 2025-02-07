@@ -894,7 +894,7 @@
       "nick": "Mirz",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738910453636,
       "lastrampok": 1738910453636
@@ -3288,6 +3288,32 @@
       "uang": 10000,
       "lastclaim": 1738958778672,
       "lastrampok": 1738958778672
+    },
+    "6289608061616@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "2426353cade467fb515588d1c0ffc469",
+      "nick": "p..",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738966852843,
+      "lastrampok": 1738966852843
+    },
+    "62887437913926@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7c0c23907343558a6a431491c38c92e7",
+      "nick": "maullll",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738970594647,
+      "lastrampok": 1738970594647
     }
   },
   "chats": {
