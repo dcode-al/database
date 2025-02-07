@@ -1533,6 +1533,45 @@
       "uang": 10000,
       "lastclaim": 1738963633926,
       "lastrampok": 1738963633926
+    },
+    "6287732716851@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f9125fb79b8e643d81f5dac9e8c4a7d0",
+      "nick": "RHIDO",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738965639735,
+      "lastrampok": 1738965639735
+    },
+    "6282255192916@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "3095b01ccb5396eee8d702fcb7735df0",
+      "nick": "Wildan",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738965713697,
+      "lastrampok": 1738965713697
+    },
+    "6283833322783@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a15f92b0537d30eb5bb4ca274ffcb527",
+      "nick": "Kyy",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738965845824,
+      "lastrampok": 1738965845824
     }
   },
   "chats": {
@@ -1897,6 +1936,24 @@
       "mute": false
     },
     "6285273494887@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363377569403266@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
