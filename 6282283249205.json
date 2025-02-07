@@ -586,6 +586,31 @@
       "uang": 10000000,
       "lastclaim": 1738924091119,
       "lastrampok": 1738924091119
+    },
+    "6283826344406@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "694d4b687b7665cb7b9e53e749335739",
+      "nick": "JAY27 REAL  OWN MAZ ZAR STOR",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738924466650,
+      "lastrampok": 1738924466650
+    },
+    "120363319314627296@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "244e7f7fe6fc232e10aace3d39b5b848",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738924504828,
+      "lastrampok": 1738924504828
     }
   },
   "chats": {
@@ -1022,6 +1047,24 @@
       "mute": false
     },
     "120363321838008366@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363319314627296@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
