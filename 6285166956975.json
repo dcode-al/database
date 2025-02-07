@@ -1520,6 +1520,19 @@
       "uang": 10000,
       "lastclaim": 1738952613816,
       "lastrampok": 1738952613816
+    },
+    "62882015347457@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "479df68c505825fcdf6a67aa8dc09e16",
+      "nick": "Vierr Host",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738963633926,
+      "lastrampok": 1738963633926
     }
   },
   "chats": {
