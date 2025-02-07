@@ -4,35 +4,35 @@
   "game": {},
   "others": {},
   "users": {
-    "6281338208891@s.whatsapp.net": {
+    "6283123121625@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "38b13e06517de210ee1595976331e72a",
-      "nick": "+62 813-3820-8891",
+      "serialNumber": "39910f32a6b211972c41e23545aaa78f",
+      "nick": "+62 831-2312-1625",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738538903478,
-      "lastrampok": 1738538903478
+      "lastclaim": 1738963733678,
+      "lastrampok": 1738963733678
     },
     "6283160207157@s.whatsapp.net": {
       "vip": false,
       "badword": 0,
       "title": "",
-      "serialNumber": "c8adff5498146fad6510821a8f3785ce",
+      "serialNumber": "7298871f96c86b3421b03dd1225a5bcf",
       "nick": "ya",
       "premium": false,
       "totalLimit": 0,
       "limit": 100,
       "uang": 10000,
-      "lastclaim": 1738539011378,
-      "lastrampok": 1738539011378
+      "lastclaim": 1738963764266,
+      "lastrampok": 1738963764266
     }
   },
   "chats": {
-    "6281338208891@s.whatsapp.net": {
+    "6283123121625@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
@@ -70,7 +70,7 @@
     }
   },
   "settings": {
-    "6281338208891@s.whatsapp.net": {
+    "6283123121625@s.whatsapp.net": {
       "totalhit": 0,
       "totalError": 0,
       "online": false,
@@ -91,7 +91,7 @@
       },
       "about": {
         "bot": {
-          "nick": "+62 813-3820-8891",
+          "nick": "+62 831-2312-1625",
           "alias": "Yaemiko MD"
         },
         "owner": {
