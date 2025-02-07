@@ -1321,6 +1321,44 @@
       "uang": 10000,
       "lastclaim": 1738862938441,
       "lastrampok": 1738862938441
+    },
+    "6282151608091@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d12180c8c76efe9e46b96cc4e28a029b",
+      "nick": "+62 821-5160-8091",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 97,
+      "uang": 10000,
+      "lastclaim": 1738883389190,
+      "lastrampok": 1738883389190
+    },
+    "6281313306916@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "a9edb143e80cf6406172c10a4d13b424",
+      "nick": "Ned Vps ? Pm Aja",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738896795415,
+      "lastrampok": 1738896795415
+    },
+    "120363360961817165@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "ed93512c3c48989c8d2912013f64ae1f",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738898056279,
+      "lastrampok": 1738898056279
     }
   },
   "chats": {
@@ -1917,6 +1955,60 @@
       "antilink": false,
       "antilinkgc": false,
       "mute": false
+    },
+    "120363378035303962@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363365547615310@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363360961817165@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
     }
   },
   "settings": {
@@ -1942,6 +2034,36 @@
       "about": {
         "bot": {
           "nick": "+62 822-2114-9370",
+          "alias": "𝐑𝐢𝐝𝐳𝐳 𝐌𝐃"
+        },
+        "owner": {
+          "nick": "+62 822-2114-9370",
+          "alias": "6282221149370"
+        }
+      }
+    },
+    "6282151608091@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "Ridzz Infinity"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 821-5160-8091",
           "alias": "𝐑𝐢𝐝𝐳𝐳 𝐌𝐃"
         },
         "owner": {
