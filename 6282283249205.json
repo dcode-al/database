@@ -431,7 +431,7 @@
       "nick": "caww",
       "premium": false,
       "totalLimit": 0,
-      "limit": 96,
+      "limit": 95,
       "uang": 10000000,
       "lastclaim": 1738921025143,
       "lastrampok": 1738921025143
@@ -1214,6 +1214,32 @@
       "uang": 10000000,
       "lastclaim": 1738934481055,
       "lastrampok": 1738934481055
+    },
+    "6281229927288@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "8a2b347d636de6475a7bdc015ae0118e",
+      "nick": "Rafly",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738934784746,
+      "lastrampok": 1738934784746
+    },
+    "62895391308811@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "f7e807e4f07c6fa8b9e7f528b8fffccc",
+      "nick": "‎",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738935061165,
+      "lastrampok": 1738935061165
     }
   },
   "chats": {
@@ -1848,6 +1874,24 @@
       "mute": false
     },
     "120363319787389012@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363028413668456@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
