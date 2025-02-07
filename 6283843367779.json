@@ -2719,6 +2719,45 @@
       "uang": 10000,
       "lastclaim": 1738942096427,
       "lastrampok": 1738942096427
+    },
+    "6283121262851@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "458c214bfee29ca280d88dbeec90638d",
+      "nick": "BARZ STORE",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942264054,
+      "lastrampok": 1738942264054
+    },
+    "6283191149240@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "7819c4385c64660501e34ded78b1fc42",
+      "nick": "al",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942282617,
+      "lastrampok": 1738942282617
+    },
+    "6287758388109@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "70fe9716593527238bf52b88486abfe0",
+      "nick": "PITZ STORE MC/REKBER",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738942324859,
+      "lastrampok": 1738942324859
     }
   },
   "chats": {
