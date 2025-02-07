@@ -941,7 +941,7 @@
       "nick": "۰ Làaa ^᪲᪲ 🩰🦢🧜🏻‍♀️",
       "premium": false,
       "totalLimit": 0,
-      "limit": 99,
+      "limit": 98,
       "uang": 10000000,
       "lastclaim": 1738929733480,
       "lastrampok": 1738929733480
@@ -1240,6 +1240,32 @@
       "uang": 10000000,
       "lastclaim": 1738935061165,
       "lastrampok": 1738935061165
+    },
+    "6282139848626@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "43ba1e26faad3d7d28688b03aa60bf60",
+      "nick": "R",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000000,
+      "lastclaim": 1738935423733,
+      "lastrampok": 1738935423733
+    },
+    "6283867535262@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "fcb6a134d1a61194f667f009a0a0a93e",
+      "nick": "lann",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000000,
+      "lastclaim": 1738935457087,
+      "lastrampok": 1738935457087
     }
   },
   "chats": {
