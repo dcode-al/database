@@ -1511,6 +1511,30 @@
       "uang": 10000000,
       "lastclaim": 1738956158272,
       "lastrampok": 1738956158272
+    },
+    "120363315304652958@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "975949092d289f77c257281837b9c358",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738971548977,
+      "lastrampok": 1738971548977
+    },
+    "120363335377869152@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "214a85082d04738331183572fc5631fc",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738974020099,
+      "lastrampok": 1738974020099
     }
   },
   "chats": {
@@ -2289,6 +2313,42 @@
       "mute": false
     },
     "120363393147154797@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363315304652958@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363335377869152@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
