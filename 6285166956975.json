@@ -478,7 +478,7 @@
       "nick": "Adminwk",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738932479005,
       "lastrampok": 1738932479005
@@ -1659,7 +1659,7 @@
       "nick": "𝐏𝐑𝐀𝐒𝐒 𝐒𝐓𝐎𝐑𝐄",
       "premium": false,
       "totalLimit": 0,
-      "limit": 95,
+      "limit": 93,
       "uang": 10000,
       "lastclaim": 1738977873331,
       "lastrampok": 1738977873331
@@ -1741,6 +1741,32 @@
       "uang": 10000,
       "lastclaim": 1738985048396,
       "lastrampok": 1738985048396
+    },
+    "6289601174795@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "12c5adb606b3626f2d9a95a7cd021f3a",
+      "nick": "DAUZXXZYY JATENG",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738986102362,
+      "lastrampok": 1738986102362
+    },
+    "6282394767770@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "759b445e2108c28081341fcdb0292939",
+      "nick": "Hmm",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738988188024,
+      "lastrampok": 1738988188024
     }
   },
   "chats": {
