@@ -3418,6 +3418,19 @@
       "uang": 10000,
       "lastclaim": 1738977752689,
       "lastrampok": 1738977752689
+    },
+    "62895330508663@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "06a674aa902bfddee3e503843aa87c44",
+      "nick": "cipa",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738977905983,
+      "lastrampok": 1738977905983
     }
   },
   "chats": {
