@@ -1560,6 +1560,44 @@
       "uang": 10000000,
       "lastclaim": 1738987421566,
       "lastrampok": 1738987421566
+    },
+    "6282260218328@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "1b51232545101e8d8c064d3548ae39a7",
+      "nick": "jr",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738989120176,
+      "lastrampok": 1738989120176
+    },
+    "6285147229963@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "d84638bb352dad8a88c9e3136b97f088",
+      "nick": "YOUNG SUMSEL",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738989139439,
+      "lastrampok": 1738989139439
+    },
+    "120363369125132998@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "de15d49a8269d0381145cb7a46a78354",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738989805899,
+      "lastrampok": 1738989805899
     }
   },
   "chats": {
@@ -2410,6 +2448,24 @@
       "mute": false
     },
     "120363294809443877@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363369125132998@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
