@@ -142,7 +142,7 @@
       "nick": "ebyyy",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738905660437,
       "lastrampok": 1738905660437
@@ -1518,7 +1518,7 @@
       "nick": "kaaa",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738915222357,
       "lastrampok": 1738915222357
@@ -3691,6 +3691,44 @@
       "uang": 10000,
       "lastclaim": 1738988313359,
       "lastrampok": 1738988313359
+    },
+    "628381055058@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "fc3d3750cf70ec546edc86e181bbc4c3",
+      "nick": "Rakjih",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738989619593,
+      "lastrampok": 1738989619593
+    },
+    "120363369125132998@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c3aa6faae9645db88dd3a8823f43e14a",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738989805545,
+      "lastrampok": 1738989805545
+    },
+    "6281228075587@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e65a13d9730d1394fb2723b37bbc68a6",
+      "nick": "#k",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738991651428,
+      "lastrampok": 1738991651428
     }
   },
   "chats": {
@@ -4037,6 +4075,24 @@
       "mute": false
     },
     "120363393147154797@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363369125132998@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
