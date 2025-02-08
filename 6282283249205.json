@@ -1547,6 +1547,19 @@
       "uang": 10000000,
       "lastclaim": 1738978273006,
       "lastrampok": 1738978273006
+    },
+    "6285783171255@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "9e232e273746e1f7d216c343e1a3e75b",
+      "nick": "Rapz Rekber",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000000,
+      "lastclaim": 1738987421566,
+      "lastrampok": 1738987421566
     }
   },
   "chats": {
@@ -2379,6 +2392,24 @@
       "mute": false
     },
     "120363293790217854@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363294809443877@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
