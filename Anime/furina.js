@@ -17,5 +17,5 @@
 "https://telegra.ph/file/02d92d94e6c3097aa02ab.jpg",
 "https://telegra.ph/file/ae014e1364dece847ff6b.jpg",
 "https://telegra.ph/file/989c8c393f393f515041f.jpg",
-"https://telegra.ph/file/68176c70bf85470ddd05e.jpg",
+"https://telegra.ph/file/68176c70bf85470ddd05e.jpg"
 ]
