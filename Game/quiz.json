@@ -1,4 +1,5 @@
-[{
+{
+"quis": [{
       "question": "Apa nama benua\nyang dikenal sebagai\nbenua hitam?",
       "choices": {
         "A": "Asia",
@@ -358,3 +359,4 @@
       },
       "correctAnswer": "C"
     }]
+}
