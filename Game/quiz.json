@@ -1,5 +1,5 @@
-{
-"quis": [{
+[
+      {
       "question": "Apa nama benua\nyang dikenal sebagai\nbenua hitam?",
       "choices": {
         "A": "Asia",
@@ -358,5 +358,5 @@
         "C": "Bayangan tidak terlihat"
       },
       "correctAnswer": "C"
-    }]
-}
+    }
+]
