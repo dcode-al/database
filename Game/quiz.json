@@ -1,0 +1,360 @@
+    {
+      "question": "Apa nama benua\nyang dikenal sebagai\nbenua hitam?",
+      "choices": {
+        "A": "Asia",
+        "B": "Eropa",
+        "C": "Afrika"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama sungai\nterpanjang di dunia?",
+      "choices": {
+        "A": "Sungai Amazon",
+        "B": "Sungai Nil",
+        "C": "Sungai Yangtze"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama mata uang\nyang digunakan di Jepang?",
+      "choices": {
+        "A": "Yuan",
+        "B": "Dolar",
+        "C": "Yen"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Siapa penemu telepon?",
+      "choices": {
+        "A": "Alexander Graham Bell",
+        "B": "Thomas Edison",
+        "C": "Nikola Tesla"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama organisasi\nyang mengatur olahraga\nOlimpiade?",
+      "choices": {
+        "A": "FIFA",
+        "B": "IOC",
+        "C": "NBA"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Di benua manakah\nnegara Australia berada?",
+      "choices": {
+        "A": "Asia",
+        "B": "Afrika",
+        "C": "Oseania"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama bentuk\npemerintahan di Inggris?",
+      "choices": {
+        "A": "Republik",
+        "B": "Monarki Konstitusi",
+        "C": "Demokrasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota\nKanada?",
+      "choices": {
+        "A": "Toronto",
+        "B": "Vancouver",
+        "C": "Ottawa"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama garis\nkhayal yang membagi\nbumi menjadi belahan\nutara dan selatan?",
+      "choices": {
+        "A": "Garis Khatulistiwa",
+        "B": "Garis Greenwich",
+        "C": "Garis Poler"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama perjanjian\ninternasional yang membatasi\npenggunaan senjata nuklir?",
+      "choices": {
+        "A": "Perjanjian Paris",
+        "B": "Perjanjian Non-Proliferasi Nuklir",
+        "C": "Perjanjian Geneva"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Negara manakah yang\nterletak di benua Asia\n dan terkenal dengan\nGreat Wall-nya?",
+      "choices": {
+        "A": "Jepang",
+        "B": "China",
+        "C": "India"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama presiden\npertama Indonesia?",
+      "choices": {
+        "A": "Soekarno",
+        "B": "Soeharto",
+        "C": "BJ Habibie"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama sistem\npemerintahan yang diterapkan\n di Indonesia?",
+      "choices": {
+        "A": "Monarki",
+        "B": "Republik",
+        "C": "Kongres"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa ibu kota dari\nnegara Brasil?",
+      "choices": {
+        "A": "Rio de Janeiro",
+        "B": "São Paulo",
+        "C": "Brasília"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama samudra\nterbesar di dunia?",
+      "choices": {
+        "A": "Samudra Atlantik",
+        "B": "Samudra Hindia",
+        "C": "Samudra Pasifik"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Di negara manakah\nkota Paris berada?",
+      "choices": {
+        "A": "Jerman",
+        "B": "Perancis",
+        "C": "Belgia"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama organisasi\ninternasional yang bertujuan\nuntuk menjaga perdamaian\n dunia?",
+      "choices": {
+        "A": "UNICEF",
+        "B": "WHO",
+        "C": "PBB"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama pulau\nterbesar di Indonesia?",
+      "choices": {
+        "A": "Bali",
+        "B": "Sumatra",
+        "C": "Kalimantan"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama sistem\npengukuran yang digunakan\n di sebagian besar negara\n di dunia termasuk Indonesia?",
+      "choices": {
+        "A": "Sistem Imperial",
+        "B": "Sistem Metrik",
+        "C": "Sistem Tradisional"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama perdagangan\nantar negara yang dilakukan\n dengan cara jual beli barang?",
+      "choices": {
+        "A": "Ekspor",
+        "B": "Impor",
+        "C": "Perdagangan Internasional"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bagian dari mata\nyang berfungsi untuk\nmengatur jumlah cahaya\n yang masuk adalah?",
+      "choices": {
+        "A": "Lensa",
+        "B": "Pupil",
+        "C": "Iris"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Proses perubahan air\nmenjadi uap air karena\n panas disebut?",
+      "choices": {
+        "A": "Kondensasi",
+        "B": "Evaporasi",
+        "C": "Presipitasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama alat\n yang digunakan untuk\nmengukur kekuatan gempa\n bumi?",
+      "choices": {
+        "A": "Barometer",
+        "B": "Seismograf",
+        "C": "Anemometer"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Perubahan wujud zat\n dari cair menjadi padat\n disebut?",
+      "choices": {
+        "A": "Menguap",
+        "B": "Mencair",
+        "C": "Membeku"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Tumbuhan yang menyimpan\ncadangan makanan pada\nbatangnya adalah?",
+      "choices": {
+        "A": "Singkong",
+        "B": "Padi",
+        "C": "Sagu"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hewan yang mengalami\nmetamorfosis sempurna adalah?",
+      "choices": {
+        "A": "Ayam",
+        "B": "Kupu-kupu",
+        "C": "Kucing"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Lapisan bumi tempat\nkita tinggal disebut?",
+      "choices": {
+        "A": "Mantel",
+        "B": "Inti",
+        "C": "Kerak"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sumber energi yang tidak\n dapat diperbarui adalah?",
+      "choices": {
+        "A": "Minyak bumi",
+        "B": "Angin",
+        "C": "Matahari"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Bagian tumbuhan yang\nberfungsi sebagai alat\nperkembangbiakan adalah?",
+      "choices": {
+        "A": "Akar",
+        "B": "Daun",
+        "C": "Bunga"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Proses dimana tumbuhan\nmengubah sinar matahari\n menjadi energi disebut?",
+      "choices": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Transpirasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang menjadi sumber\nenergi utama bagi kehidupan\n di Bumi?",
+      "choices": {
+        "A": "Matahari",
+        "B": "Bulan",
+        "C": "Bintang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi pada\nair ketika dibekukan?",
+      "choices": {
+        "A": "Menjadi gas",
+        "B": "Menjadi es",
+        "C": "Menghilang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Hewan apa yang disebut\nraja hutan?",
+      "choices": {
+        "A": "Gajah",
+        "B": "Harimau",
+        "C": "Singa"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa bagian tanaman\n yang berfungsi menyerap\n air dan nutrisi dari tanah?",
+      "choices": {
+        "A": "Daun",
+        "B": "Akar",
+        "C": "Batang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang digunakan tanaman\nuntuk membuat makanan\n melalui proses fotosintesis?",
+      "choices": {
+        "A": "Air, udara, dan cahaya matahari",
+        "B": "Air, batu, dan tanah",
+        "C": "Air, angin, dan api"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi saat\nsiang hari ketika Matahari\nberada di atas kepala\n kita?",
+      "choices": {
+        "A": "Siang menjadi malam",
+        "B": "Bayangan menjadi pendek",
+        "C": "Bayangan menjadi panjang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang dihasilkan oleh\nlebah selain madu?",
+      "choices": {
+        "A": "Gula",
+        "B": "Lilin",
+        "C": "Kertas"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang terjadi jika\nkita menyiram tanaman\n setiap hari?",
+      "choices": {
+        "A": "Tanaman akan layu",
+        "B": "Tanaman akan tumbuh subur",
+        "C": "Tanaman akan mengering"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama planet terbesar\n di tata surya kita?",
+      "choices": {
+        "A": "Bumi",
+        "B": "Mars",
+        "C": "Jupiter"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa yang terjadi pada\nbayangan kita saat malam\nhari tanpa adanya cahaya?",
+      "choices": {
+        "A": "Bayangan terlihat jelas",
+        "B": "Bayangan menjadi sangat besar",
+        "C": "Bayangan tidak terlihat"
+      },
+      "correctAnswer": "C"
+    }
